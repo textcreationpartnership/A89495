@@ -1,0 +1,1268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ashrea: or, The grove of beatitudes represented in emblemes: and, by the art of memory, to be read on our blessed Saviour crucifi'd: with considerations &amp; meditations suitable to every beatitude.</title>
+            <author>Manning, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 155 KB of XML-encoded text transcribed from 78 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89495</idno>
+            <idno type="STC">Wing M483</idno>
+            <idno type="STC">ESTC R225638</idno>
+            <idno type="EEBO-CITATION">99896539</idno>
+            <idno type="PROQUEST">99896539</idno>
+            <idno type="VID">135133</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135133)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2431:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ashrea: or, The grove of beatitudes represented in emblemes: and, by the art of memory, to be read on our blessed Saviour crucifi'd: with considerations &amp; meditations suitable to every beatitude.</title>
+                  <author>Manning, Edward.</author>
+               </titleStmt>
+               <extent>[36], 117, [1] p., [1] leaf of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed by J[ohn]. M[acock]. for W[illiam]. Place, at Grayes-Inn Gate in Holborne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Edward Manning--Wing (CD-ROM edition).</note>
+                  <note>Printer and publisher's names from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Beatitudes --  Commentaries --  Early works to 1800.</term>
+               <term>Meditations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135133:1"/>
+            <pb facs="tcp:135133:1"/>
+            <p>
+               <hi>ASHREA:</hi> OR, THE GROVE OF BEATITUDES, Repreſented in EMBLEMES: And, by the ART OF MEMORY, To be read on our Bleſſed SAVIOUR Crucifi'd: WITH Conſiderations &amp; Meditations ſuitable to every BEATITUDE.</p>
+            <q>
+               <p>Hoc pro Beatitudine meâ.</p>
+               <bibl>
+                  <hi>Gen. c. 30.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. M.</hi> for <hi>W. Place,</hi> at <hi>Grayes</hi>-Inn Gate in <hi>Holborne,</hi> 1665.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:135133:2"/>
+            <pb facs="tcp:135133:2"/>
+            <head>To the Lady <hi>M. B.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>IT is but juſt, this little Treatiſe ſhould be par<g ref="char:EOLhyphen"/>ticularly addreſs'd to you, ſince I am to ac<g ref="char:EOLhyphen"/>knowledge, that the pub<g ref="char:EOLhyphen"/>liſhing of it, at this time, is, partly, an effect of that en<g ref="char:EOLhyphen"/>couragement, which you ſometime gave me to do it. The GROVE, into which I invite you, is the ſame you thought pleaſant, even upon the firſt view of it. In one reſpect, it is indeed but a little one, as conſiſting, in all,
+<pb facs="tcp:135133:3"/>but of Eight Trees; but when you ſhall conſider them, repreſenting to you the Eight great Leſſons of Chriſtian Reſignation, and thoſe a<g ref="char:EOLhyphen"/>gain exemplifi'd upon that Tree, whereon the great Work of Man's Redemption receiv'd its period, you will haply think it a place, where though you retire into it every day, you may find new and freſh delights, which you may ſo improve here, as to attain eternal ones hereafter.</p>
+            <p>I know, Madam, how con<g ref="char:EOLhyphen"/>ſtant a practiſer you are of the Virtues here recommended to you, and to what a height of pious exerciſes you are ar<g ref="char:EOLhyphen"/>riv'd
+<pb facs="tcp:135133:3"/>thereby; and conſe<g ref="char:EOLhyphen"/>quently, that your Appre<g ref="char:EOLhyphen"/>henſions of Sacred Myſteries need not the aſſiſtances of vi<g ref="char:EOLhyphen"/>ſible Objects, ſo much as thoſe of ſome others may, who, moving in a lower Sphear, derive from what they ſee, a deeper and more lively reflection on what they do not. If theſe Endeavours of mine may have an influence onely on theſe latter; if theſe Em<g ref="char:EOLhyphen"/>blematical Repreſentations be of ſome benefit and advant<g ref="char:EOLhyphen"/>tage to any, though the leaſt of God's Servants: I ſhall nei<g ref="char:EOLhyphen"/>ther think them miſ-beſtow'd, nor be aſham'd of their mean<g ref="char:EOLhyphen"/>neſs; ſince what is done tends
+<pb facs="tcp:135133:4"/>to the Acquiſition of future BEATITUDE, the End, in order to which, we have our preſent Being. That Bea<g ref="char:EOLhyphen"/>tifical State ought to be the Object of our Thoughts, Wiſhes, Words, and Actions; How much I wiſh it to all, let this little Work; how particu<g ref="char:EOLhyphen"/>rarly to your ſelf, Madam, let the addreſſing of it to you, be my Witneſs: with this fur<g ref="char:EOLhyphen"/>ther aſſurance, that I am,</p>
+            <closer>
+               <signed>
+                  <hi>Madam, Your moſt humble Servant,</hi> E. M.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:135133:4"/>
+            <head>THE PREFACE, Giving a Particular account of the Deſign and Title of this little Work; as alſo of the advantage of Artificial Me<g ref="char:EOLhyphen"/>mory therein.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Do here preſent thee with a little <hi>Grove of Beati<g ref="char:EOLhyphen"/>tudes,</hi> or Happineſſes, which may be Entituled <hi>ASHREA,</hi> a word, in the <hi>Hebrew</hi> Tongue, ſignifying a <hi>Wood</hi> or <hi>Grove;</hi> derived from <hi>Aſhar,</hi> which ſignifies to Beati<g ref="char:EOLhyphen"/>fie
+<pb facs="tcp:135133:5"/>or make bleſſed. May it be God's good pleaſure, that this our Grove may produce the like effect, in all thoſe, who ſhall devoutly walk into it.</p>
+            <p>Man and Beatitude are corre<g ref="char:EOLhyphen"/>latives; for Man was created for happineſs, and this pre-or<g ref="char:EOLhyphen"/>dain'd for him. Theſe two are ſo reciprocally link'd, that the word <hi>Aſhre</hi> (in the ſacred Tongue and plural number) ſig<g ref="char:EOLhyphen"/>nifies both <hi>happy Men and Bea<g ref="char:EOLhyphen"/>titudes.</hi> So that, not only in character and ſound, but alſo in ſubſtance theſe two ſeem, as it were, inſeparable.</p>
+            <p>Now whereas this word <hi>Aſhre</hi> (Beatitudes and Happy Men) is ſometimes tranſlated <hi>Beati<g ref="char:EOLhyphen"/>tude</hi>
+               <pb facs="tcp:135133:5"/>or <hi>happy Man</hi> (as appears in the two firſt words of the firſt Pſalm) we may collect a myſtical ſenſe, which is, that Man, hap<g ref="char:EOLhyphen"/>py in the plural number, may (at leaſt in a Cabaliſtical way) de<g ref="char:EOLhyphen"/>note, as it were, two men; the one, in this World, <hi>bleſſed</hi> in <hi>hope,</hi> the other, <hi>bleſſed</hi> in Heaven by <hi>fruition;</hi> the one, bleſſed amidſt <hi>tears, mourning, perſecution,</hi> &amp;c. the other, bleſſed, amidſt <hi>joy</hi> and eternal <hi>repoſe;</hi> the one, by <hi>Grace,</hi> the other, by <hi>Glory.</hi>
+            </p>
+            <p>In fine, the verb <hi>Aſhar</hi> (to beatifie) hath two other ſignifi<g ref="char:EOLhyphen"/>cations; the one (in <hi>Pihel</hi>) to <hi>conduct,</hi> the other (in <hi>Kal</hi>) to <hi>go</hi> or <hi>proceed.</hi> For, where God conducts by his grace, there
+<pb facs="tcp:135133:6"/>man goes forward, and makes ſome progreſs, towards his final Beatitude; in order to the at<g ref="char:EOLhyphen"/>tainment whereof, all our better actions ought to be done. So that when we have performed any good action, we may ſay, with <hi>Leah,</hi> at her Maid <hi>Zilpah</hi>'s delivery of a Son, HOC PRO BEATIT<g ref="char:V">Ʋ</g>DINE MEA, May this, and every action I produce, tend to God's <hi>glory,</hi> and contri<g ref="char:EOLhyphen"/>bute to the acquiſition of my <hi>Bea<g ref="char:EOLhyphen"/>titude.</hi>
+            </p>
+            <p>I foreſee an Objection which ſome of my Readers may make; and therefore I will endeavour to ſatisfie it. It may be queſtion'd, to what end Artificial Memory ſhould be inſerted here, to render
+<pb facs="tcp:135133:6"/>a man mindful of Beatitude, ſince <hi>Ariſtotle</hi> affirms it to be a Good, which all men deſire; nay, ſo great a one, according to S. <hi>Auguſtine,</hi> that both good and evil men are deſirous of it? So that being a thing ſo conna<g ref="char:EOLhyphen"/>tural to man, how is it to be ima<g ref="char:EOLhyphen"/>gin'd, he ſhould forget that, which he ſo much deſires? My anſwer is, that it is one thing to deſire Beatitude, and another, to know what it is, and wherein it conſiſts.</p>
+            <p>Whoſoever, ſaith S. <hi>Augu<g ref="char:EOLhyphen"/>ſtine,</hi> burns with the flames of Avarice, hoards up wealth to no other end, then to be happy. The like doth the ambitious man to acquire worldly dignities; and
+<pb facs="tcp:135133:7"/>the voluptuous, pleaſures, where<g ref="char:EOLhyphen"/>in they place their ſeveral Beati<g ref="char:EOLhyphen"/>tudes. But their happineſs is ſuch as may be conſonant to their vicious and deprav'd deſires, and conſequently inconſiſtent with that true Beatitude, which can be purſu'd only by the good and vertuous.</p>
+            <p>To open therefore the eyes and ears of mortals, that they might hear and behold true Beatitude, the Son of God incarnate is ſaid to have opened his own mouth, when he preached to his Apoſtles the <hi>Eight Beatitudes.</hi>
+            </p>
+            <p>The place, where he pro<g ref="char:EOLhyphen"/>nounc'd theſe eight divive Sen<g ref="char:EOLhyphen"/>tences, was, as S. <hi>Hierom</hi> thinks, Mount <hi>Thabor;</hi> and Mount <hi>Cal<g ref="char:EOLhyphen"/>vary</hi>
+               <pb facs="tcp:135133:7"/>that, wherein he exempli<g ref="char:EOLhyphen"/>fy'd them in himſelf. So that, as good Examples ſpeak in ſilence; ſo our Bleſſed Lord and Saviour crucifi'd,
+<list>
+                  <item>
+                     <hi>1.</hi> By his Nakedneſs;</item>
+                  <item>
+                     <hi>2.</hi> By his Head meekly bowing down;</item>
+                  <item>
+                     <hi>3.</hi> By his Eyes weeping;</item>
+                  <item>
+                     <hi>4.</hi> By his Mouth, ſaying, <hi>I thirſt;</hi>
+                  </item>
+                  <item>
+                     <hi>5.</hi> By his Side bleeding;</item>
+                  <item>
+                     <hi>6.</hi> By his pure Heart pierc'd;</item>
+                  <item>
+                     <hi>7.</hi> By his Hands nailed; and laſtly by his Feet; doth teach us what we ought to do in order to our attain<g ref="char:EOLhyphen"/>ment of eternal bliſs.</item>
+               </list>
+            </p>
+            <p>Behold here the eight places for exerciſe of this pious Art of Memory, wherein the devout Reader may find, as it were writ<g ref="char:EOLhyphen"/>ten, the <hi>Eight Beatitudes,</hi> in a Book, which lies always open, to
+<pb facs="tcp:135133:8"/>be read, with ſuch large Chara<g ref="char:EOLhyphen"/>cters, as the ſhorteſt ſight muſt needs reach, and the weakest memory retain; ſo lively ſet forth, that <hi>Beatitude,</hi> as in a Cryſtal-Mirrour, ſhall ſtill preſent it ſelf unto us.</p>
+            <p n="1">
+               <hi>1.</hi> For, how can I behold Chriſt <hi>naked,</hi> and not remember how <hi>poor</hi> he was <hi>in Spirit,</hi> Will, and Deſire, who, living and dying, had no place whereon to reſt his Head?</p>
+            <p n="2">
+               <hi>2.</hi> How can I view his dying <hi>Head</hi> humbly bowing down, with infinite patience, and not call to mind that, <hi>Bleſſed are the meek,</hi> who of this meekeſt Lamb, may learn patience and humility?</p>
+            <p n="3">
+               <hi>3.</hi> Can I look upon his <hi>Eyes,</hi>
+               <pb facs="tcp:135133:8"/>diſtilling tears (for he wept on the Croſs) and be unmindful, a<g ref="char:EOLhyphen"/>midſt the jollity of a life ſpent in delights and vanities, that <hi>they are bleſſed who mourn?</hi>
+            </p>
+            <p n="4">
+               <hi>4.</hi> Can I fix mine eye on his ſacred <hi>Mouth,</hi> crying out, <hi>I thirſt,</hi> and not be preſented with a remembrance of that true hap<g ref="char:EOLhyphen"/>pineſs which he pronounc'd to thoſe, who <hi>hunger and thirſt af<g ref="char:EOLhyphen"/>ter righteouſneſs,</hi> as he himſelf did, while he conceiv'd himſelf ſtreightned, and thought the time tedious, till his hour was come, to ſuffer, and ſatisfie for us, in all rigor of juſtice?</p>
+            <p n="5">
+               <hi>5.</hi> As for his wounded <hi>Side,</hi> ſtreaming forth bloud and water, how can it but revive and rub up
+<pb facs="tcp:135133:9"/>the memory of the dulleſt and moſt <hi>unmerciful</hi> man? How can he behold that ſide pierc'd, and not be wounded with <hi>pity</hi> and <hi>commiſeration</hi> towards the ne<g ref="char:EOLhyphen"/>ceſſitous? How can he ſee that ſide exhauſted of its laſt treaſure of precious bloud for his redempti<g ref="char:EOLhyphen"/>on, and yet forget the poor, and not relieve the miſerable?</p>
+            <p n="6">
+               <hi>6.</hi> But when he paſſeth fur<g ref="char:EOLhyphen"/>ther, and by the rift, comes to be<g ref="char:EOLhyphen"/>hold his Saviour's wounded Heart, O what a copious and fer<g ref="char:EOLhyphen"/>tile place is there for a devout Art of Memory! Who reads not there, <hi>Bleſſed are the pure of heart?</hi> Who finds not there the <hi>Urim</hi> and <hi>Thummim,</hi> words which were inſerted in the High
+<pb facs="tcp:135133:9"/>Prieſt's Breſt-plate; but now, in a more perfect manner, enclos'd within the pure heart of our High Prieſt Chriſt Jeſus? What illu<g ref="char:EOLhyphen"/>minations! what ardors, which <hi>Urim</hi> ſignifie; what perfections! what integrities (expreſſed by <hi>Thummim</hi>) were confin'd with<g ref="char:EOLhyphen"/>in the narrow limits of that di<g ref="char:EOLhyphen"/>vine heart; which, ſtill open, ſtill invites the ſinner to cleanſe with that ſacred water, and pu<g ref="char:EOLhyphen"/>rifie with that precious bloud, his ſpotted and defiled heart? which muſt be, by receiving a wound of true compunction in his own, for the cleanſing whereof the moſt innocent and pure heart of his Lord and Saviour was ſo pierced.</p>
+            <pb facs="tcp:135133:10"/>
+            <p n="7">
+               <hi>7.</hi> Now for as much as there is a ſecret ſympathy and cor<g ref="char:EOLhyphen"/>reſpondence between the heart and the hand, who can ele<g ref="char:EOLhyphen"/>vate his eyes to Chriſt's right hand nail'd to the Croſs, and not call to minde, that <hi>Bleſ<g ref="char:EOLhyphen"/>ſed are the peace-makers;</hi> and among them, that great Peace-maker, who, being our Mediator, interpos'd himſelf between God and us, and received the wounds and heavy chaſtiſement, which our heinous ſins deſerved? Who can behold both his hands lifted up to heaven, and not call to mind our innocent <hi>Abel,</hi> whoſe bloud cries to heaven for mercy, to reconcile us to his Father? Who can ſee thoſe ſacred hands
+<pb facs="tcp:135133:10"/>faſten'd to the Croſs, and not re<g ref="char:EOLhyphen"/>flect, that he ought to be ſo far from inciting others to diſſention, that it ſhould be his main endea<g ref="char:EOLhyphen"/>vour, to faſten their hands, by an amicable compoſure of their differences, and a charitable me<g ref="char:EOLhyphen"/>diation between them?</p>
+            <p n="8">
+               <hi>8.</hi> Laſtly, inaſmuch as Perſe<g ref="char:EOLhyphen"/>cution belongs to the Feet, either to fly, or ſtay and ſuffer, deſcend from thy Saviour's ſacred Hands, to his Feet, in like man<g ref="char:EOLhyphen"/>ner transfix'd with nails. Who is it that can humbly kiſs the right foot, with a kind of hope to be plac'd on Chriſt's right hand, and forbear to do the like to the left, with a compliant heart, rea<g ref="char:EOLhyphen"/>dy to <hi>ſuffer perſecution for righ<g ref="char:EOLhyphen"/>teouſneſs
+<pb facs="tcp:135133:11"/>ſake?</hi> Can our memo<g ref="char:EOLhyphen"/>ry ſo far fail us, as, when we fix our eyes on theſe tender feet, to be forgetful, how they were bli<g ref="char:EOLhyphen"/>ſter'd with long journies, in the ſearch of loſt ſouls; and at laſt, how, with weary and feeble ſteps, they aſcended Mount <hi>Calvary,</hi> to that extream perſecution, thereby to enfranchiſe us, and make us capable of admiſſion into the <hi>Kingdom of Heaven.</hi>
+            </p>
+            <p>Thus may we behold our ſe<g ref="char:EOLhyphen"/>cond <hi>Adam,</hi> naked, yet encom<g ref="char:EOLhyphen"/>paſſed with <hi>Beatitudes,</hi> that he might cloath the ſinful naked <hi>Adam,</hi> who was environed with miſeries! If to remember the laſt things be not to ſin; certainly, to be vers'd in this Art of Memo<g ref="char:EOLhyphen"/>ry,
+<pb facs="tcp:135133:11"/>will be, not only to eſchew e<g ref="char:EOLhyphen"/>vil, but alſo to do good, and to acquire that <hi>Beatitude,</hi> which makes a man eternally happy.</p>
+            <p>And whereas I have ſo often mentioned this <hi>Art of Memory,</hi> I now come to beſtow ſome few lines, by way of direction, to ſa<g ref="char:EOLhyphen"/>tisfie their curioſity, who are lo<g ref="char:EOLhyphen"/>vers of it, in order to the advan<g ref="char:EOLhyphen"/>tage they may make thereof.</p>
+            <p>LOCAL MEMORY depends on ſeveral places diſpos'd at a cer<g ref="char:EOLhyphen"/>tain diſtance one from the other, purpoſely conſign'd to quicken the <hi>Memorative power.</hi> And this is wrought, by preſenting one thing to it by the repreſentation of ſome o<g ref="char:EOLhyphen"/>ther, accompany'd with a reaſon, why that other was there placed. <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+               <pb facs="tcp:135133:12"/>this means, Remembrance, or Re<g ref="char:EOLhyphen"/>miniſcence (which is an atten<g ref="char:EOLhyphen"/>dant to Reaſon) preſents us with that which we had otherwiſe forgotten. Nay, to uſe S. <hi>Augu<g ref="char:EOLhyphen"/>ſtine</hi>'s words, <hi>We had forgot<g ref="char:EOLhyphen"/>ten it in ſome ſort; yet by that part of the thing, which we re<g ref="char:EOLhyphen"/>membred</hi> (which was the reaſon why) <hi>we ſeek the other part, which we remember not. For the Memory being at a loſs for want of a full notion, deſireth what is wanting may be added, which is the Reaſon left in the place, and the thing which I left there, that at my return, I might find it by Reminiſcence.</hi>
+            </p>
+            <p>To render what hath been ſaid the more eaſily comprehenſible by
+<pb facs="tcp:135133:12"/>example; My place (which, like the firſt matter, ſtands in an in<g ref="char:EOLhyphen"/>differency as to all forms, or as ſoft Wax, ſuſceptible of all im<g ref="char:EOLhyphen"/>preſſions) ſhall be, <hi>Jonas</hi> ſwal<g ref="char:EOLhyphen"/>lowed up by the Whale, which I ſeem really to behold. Now if I am, for inſtance, to commit <g ref="char:V">Ʋ</g>
+               <g ref="char:EOLhyphen"/>ſury to this place, I give my rea<g ref="char:EOLhyphen"/>ſon to my ſelf, to wit, becauſe it devours men in their Eſtates.</p>
+            <p>Again, if the word, or matter, of Obedience occur, I place it on the <hi>Whale,</hi> which, commanded by the power of Heaven, was ready to receive <hi>Jonas</hi> caſt over<g ref="char:EOLhyphen"/>board by the Mariners. If af<g ref="char:EOLhyphen"/>terwards, at ſome other time, In<g ref="char:EOLhyphen"/>nocence, either in word or mat<g ref="char:EOLhyphen"/>ter, is to be placed on or about
+<pb facs="tcp:135133:13"/>the <hi>Whale,</hi> I diſpoſe it in the jaws of that Monſter, with my reaſon, becauſe they did not cruſh or ſo much as hurt <hi>Jonas,</hi> in the reception of him.</p>
+            <p>Nay, to be ſhort, what is there, but may be, according this Art, placed on the <hi>Whale</hi> ſwallowing <hi>Jonas?</hi> For inſtance, If ſolemn vows or promiſes; if prayers and repentance, I place them on <hi>Jonas.</hi> If I would remember Pride, I place it on the Noſtrils of the <hi>Whale,</hi> ſpouti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> out wa<g ref="char:EOLhyphen"/>ter into the air. If Humility, I place it on <hi>Muſculus,</hi> a little fiſh, which, as ſome affirm, al<g ref="char:EOLhyphen"/>ways goes before the <hi>Whale.</hi> If Arrogance occur, or Ambition, I lay it on the Mountain of Water,
+<pb facs="tcp:135133:13"/>which its vaſt back raiſes up. If Strength and Impetuoſity, I place them on the tail. In fine, if Combination of little ones to confront the greater, I place it on a ſhole of Herrings, attempting to encounter the <hi>Whale.</hi> The like Method is to be us'd as to o<g ref="char:EOLhyphen"/>ther heads. And this is a ſum<g ref="char:EOLhyphen"/>mary account of <hi>Local,</hi> or <hi>Arti<g ref="char:EOLhyphen"/>ſicial Memory.</hi>
+            </p>
+            <p>Now if the Prophet <hi>David</hi> doubted not to ſay to God him<g ref="char:EOLhyphen"/>ſelf, <hi>Why doſt thou turn away thy face? Why haſt thou for<g ref="char:EOLhyphen"/>gotten to be gracious?</hi> And, <hi>Lord, remember</hi> David <hi>and all his troubles;</hi> Why may not I (and that, I hope, without of<g ref="char:EOLhyphen"/>fence) affirm, that a kind of
+<pb facs="tcp:135133:14"/>
+               <hi>Local Memory</hi> may be attribu<g ref="char:EOLhyphen"/>ted to God? Nay, why not much rather <hi>remembrance</hi> then <hi>for<g ref="char:EOLhyphen"/>getfulneſs? The Rain-bow ſhall be in the clouds,</hi> ſaith the Text, as ſpoken by God himſelf, <hi>And I will look upon it, that I may</hi> remember <hi>the everlaſting covenant.</hi> Here we may ſay, the place conſign'd was the Rain-bow, on which the Covenant, to be remembred, was placed; and by that Rain-bow was prefigured Chriſt, on the Croſs, whom his Father beholding is moved to mercy, and compaſſion towards ſinners.</p>
+            <p>And why ſhould not we wretched ſinners, whenever we behold, or repreſent to our ſelves
+<pb facs="tcp:135133:14"/>this Rain-bow (to wit, Chriſt crucifi'd and faſten'd to the Croſs) diverſifi'd with the ſeve<g ref="char:EOLhyphen"/>ral colours of red, and white, and black, and blew, <hi>&amp;c.</hi> im<g ref="char:EOLhyphen"/>mediately call to mind what he ſuffred, and for whom he ſuf<g ref="char:EOLhyphen"/>fred? And, why may we not, upon that repreſentation, accord<g ref="char:EOLhyphen"/>ing to the foreſaid Art, aſſign eight ſeveral places, at certain diſtances, for our better remem<g ref="char:EOLhyphen"/>brance and practice of the <hi>Eight Beatitudes?</hi> And whereas the Lord ſaid, that the Rain-bow ſhould be ſeen in the Clouds, why may not the repreſentation of our Saviours bitter Paſſion be our Remembrancer, how that he was encompaſſed, not only with a
+<pb facs="tcp:135133:15"/>cloud, but with a total eclipſe of heavineſs and grief? In fine, if God ſaid, that he would look upon the Rain-bow, that he might remember his Covenant; ought not we frequently to ima<g ref="char:EOLhyphen"/>gine to <hi>ſelves</hi> a ſight of him, who is the Angel of the Covenant, the Prince of Peace, and the Mirrour, and great Exemplar of patience and meekneſs? When we reflect on his nakedneſs on the Croſs, ſhall we not thence derive a certain <hi>memento,</hi> how <hi>poor he was in ſpirit,</hi> and ſo of the reſt; with a reaſon, why each <hi>Beatitude</hi> is conſign'd to its pro<g ref="char:EOLhyphen"/>per place.</p>
+            <p>It will not be impertinent, in this place, to bring in what S. <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi>
+               <pb facs="tcp:135133:15"/>ſays, in his Boook of <hi>Confeſſions, lib. 10.</hi> as having reference both to our ſubject, <hi>Bea<g ref="char:EOLhyphen"/>titude,</hi> and what we have de<g ref="char:EOLhyphen"/>liver'd concerning our <hi>Art of Memory. All of us,</hi> ſaith he, <hi>would fain be happy: which if we did not apprehend with a certain kind of notice we could not all deſire it with ſo reſo<g ref="char:EOLhyphen"/>lute a will; which certain kind of notice may be underſtood of the Memory, wherein the knowledge of Beatitude is re<g ref="char:EOLhyphen"/>newed.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:135133:16"/>
+            <pb facs="tcp:135133:16"/>
+            <head>AN INVITATION To the Grove of BEATITUDES.</head>
+            <byline>Emblematically repreſented by Eight Trees.</byline>
+            <lg>
+               <l>HEre no <hi>Sylvanus</hi> haunts our Grove,</l>
+               <l>Here no prophane wild Satyrs rove,</l>
+               <l>Nor in our glades,</l>
+               <l>And bliſsful ſhades,</l>
+               <l>
+                  <hi>Diana</hi> and her Nymphs reſort</l>
+               <l>To chaſe the nimble Deer, and ſport.</l>
+               <l>A fairer wight,</l>
+               <l>More pure and bright.</l>
+               <l>Than roſie morn, that ſweetly breathes,</l>
+               <l>Appears, crown'd with immortal wreathes.</l>
+               <l>The Starrie skies,</l>
+               <l>With radiant Eyes,</l>
+               <l>Are not ſo beauteous, clear, and fair,</l>
+               <l>Nor, for the night and day, a pair,</l>
+               <l>That glorious ſhine;</l>
+               <l>Shee's ſo divine.</l>
+            </lg>
+            <pb facs="tcp:135133:17"/>
+            <lg n="1">
+               <head>I</head>
+               <l>
+                  <hi>Beatitude!</hi> whom you may ſee,</l>
+               <l>Or <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with a <hi>Cornel</hi> Tre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Which forward Springs,</l>
+               <l>And bloſſoms brings,</l>
+               <l>Ere levie ereſts, to ſhrowd appear,</l>
+               <l>To wanton with the winds, for here,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nknown before,</l>
+               <l>
+                  <hi>In ſpirit poor,</hi>
+               </l>
+               <l>
+                  <hi>Beatitude,</hi> in her retreat,</l>
+               <l>Poor in deſire hath ſixt her feat,</l>
+               <l>In Heaven whoſe ſtore,</l>
+               <l>Laſts evermore.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Hence paſs along, that you may be</l>
+               <l>Bleſt by your ſight, when you ſhall ſee</l>
+               <l>This fair one ſit,</l>
+               <l>Whom never yet</l>
+               <l>Blind mortals found. Then for her ſeek,</l>
+               <l>A Lady humble, gentle, <hi>meek,</hi>
+               </l>
+               <l>Whoſe powerful Hand,</l>
+               <l>Doth ſeize the <hi>Land;</hi>
+               </l>
+               <l>Like is this <hi>Arched Tree,</hi> which ſends</l>
+               <l>A thouſand ſhoots, for ſo ſhe bends</l>
+               <l>Down to the Earth,</l>
+               <l>Bleſt by the birth</l>
+               <l>Of humble thoughts, which deeply take</l>
+               <l>Firm root in Heaven, and happy make,</l>
+               <pb facs="tcp:135133:17"/>
+               <l>For ever bleſt,</l>
+               <l>When ſhee's <hi>poſſeſs'd.</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>The weeping <hi>Myrrh-Tree</hi> next in fight,</l>
+               <l>Is ſhading this ſad mourning wight:</l>
+               <l>for as this Tree</l>
+               <l>Diſtills, ſo ſhe</l>
+               <l>Drops Orient Pearls, which ſhining, are,</l>
+               <l>Then Indian Gems, more precious far,</l>
+               <l>Which never ſoil:</l>
+               <l>Sad Grief's the foil.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Move farther yet into our Grove,</l>
+               <l>And view the Tree which bears the <hi>Clove,</hi>
+               </l>
+               <l>Bloom'd like a nail,</l>
+               <l>You ſhall not fail</l>
+               <l>To find her, where, upon the ground</l>
+               <l>She (thirſting) ſits encompaſs'd round,</l>
+               <l>Midſt ſuch a plot,</l>
+               <l>As yet could not</l>
+               <l>Admit a nanghty weed to grow;</l>
+               <l>The ſap of Grace ſhee's thirſting ſo,</l>
+               <l>Which doth impart</l>
+               <l>Life to the Heart.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Shee's gone from thence, fly, fly, make baſtes</l>
+               <l>To follow her, and find her plac'd</l>
+               <pb facs="tcp:135133:18"/>
+               <l>
+                  <g ref="char:V">Ʋ</g>nder the ſhade,</l>
+               <l>A Tree hath made,</l>
+               <l>Bears <hi>Adam's Apples:</hi> No time's loſt,</l>
+               <l>To ſplit them, and behold how croſt</l>
+               <l>Is every fruit,</l>
+               <l>Which well doth ſuit</l>
+               <l>With her, who, wounded deep with Grief,</l>
+               <l>Feeles others wants, and gives relief.</l>
+               <l>And when you ſee,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>pon this Tree,</l>
+               <l>Large ſpreading leaves, know ſhe is bleſt,</l>
+               <l>Findes Mercy, cauſe ſhe joyes to veſt</l>
+               <l>The naked poore</l>
+               <l>Tangment her ſtore.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Yet f<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ther chaſe this glorious wight,</l>
+               <l>Be ſure to keep her ſtill in ſight,</l>
+               <l>Whom if you loſe,</l>
+               <l>Your Hearts repoſe</l>
+               <l>In bliſs is gone. See where retir'd</l>
+               <l>Shee (<gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>) fits, by Heaven inſpird,</l>
+               <l>With Silver Breaſt,</l>
+               <l>To take her reſh,</l>
+               <l>Where <hi>Figgs</hi> upon the Tree were <hi>green,</hi>
+               </l>
+               <l>And hard; until a Gnat was ſeen</l>
+               <l>To be ſo kind,</l>
+               <l>As wound the rind;</l>
+               <l>Whoſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> drop deſcends <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> were,</l>
+               <l>In Aemulation of a Tear,</l>
+               <pb facs="tcp:135133:18"/>
+               <l>Fallne from her Eyes,</l>
+               <l>Which you may prize,</l>
+               <l>By bleſſings which each doth impart,</l>
+               <l>To waſh and cleanſe an ordur'd Heart,</l>
+               <l>And purifie</l>
+               <l>Th' affected Eye.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Shee's riſen thence, purſue her ſtill,</l>
+               <l>You ſhall, you muſt, y<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nill,</l>
+               <l>Nor covet leſs</l>
+               <l>Than happineſs.</l>
+               <l>Behold this active Virgin ſits,</l>
+               <l>Where the ſweet amorous <hi>Wood-Bind</hi> knits</l>
+               <l>With claſping Arms,</l>
+               <l>And powerful Charmes,</l>
+               <l>A neighbouring pair of Stands which fought</l>
+               <l>Blown by the winds, till round about</l>
+               <l>It guirdes, and bindes,</l>
+               <l>And clings and windes;</l>
+               <l>Like her who never doth ſurceaſe</l>
+               <l>
+                  <hi>(Beatitude!)</hi> to link, make peace,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nite with bands,</l>
+               <l>Both Hearts and Hands.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>In fine: This Lady yet removes</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nto a ſtreading <hi>Vine,</hi> which loves</l>
+               <l>(That it may bear In time of year)</l>
+               <pb facs="tcp:135133:19"/>
+               <l>To have her branches prun'd, and gyves</l>
+               <l>To bind her Arms, for ſo ſhe thrives,</l>
+               <l>Fixt to a wall.</l>
+               <l>But ſeeming thrall</l>
+               <l>Is <hi>Perſecution,</hi> which, who takes,</l>
+               <l>And (patient) hears, be muck forſakes,</l>
+               <l>And leaves his hold</l>
+               <l>Of droſs, for Gold.</l>
+               <l>What then is he, ſo groſs, and rude,</l>
+               <l>That covets not <hi>Beatitude?</hi>
+               </l>
+               <l n="1">
+                  <hi>1.</hi> In Spirit poor,</l>
+               <l>T' abound with ſtore?</l>
+               <l n="2">
+                  <hi>2.</hi> Meek to poſſeſs,</l>
+               <l>True happineſs?</l>
+               <l n="3">
+                  <hi>3.</hi> Mourn midſt annoy,</l>
+               <l>To reap with joy?</l>
+               <l n="4">
+                  <hi>4.</hi> Thirſt, Hunger ſtill,</l>
+               <l>To have his fill?</l>
+               <l n="5">
+                  <hi>5.</hi> Pittiful-kind,</l>
+               <l>Mercy to find?</l>
+               <l n="6">
+                  <hi>6.</hi> Pure-hearted, ſee,</l>
+               <l>And Bleſled be?</l>
+               <l n="7">
+                  <hi>7.</hi> Peaceful in Life,</l>
+               <l>Compoſing ſtrife?</l>
+               <l n="8">
+                  <hi>8.</hi> Suffer, and take</l>
+               <l>Affliction, make?</l>
+               <l>A Crown on Earth, in Heaven of Light,</l>
+               <l>When fair <hi>Beatitude,</hi> more bright,</l>
+               <l>Shall be compleat in God, th' Abyſs</l>
+               <l>Of joy, and everlaſting Bliſs.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:135133:19"/>
+            <head>
+               <hi>ASHREA:</hi> OR, The Grove OF BEATITUDES: Repreſented in EMBLEMES.</head>
+            <pb facs="tcp:135133:20"/>
+            <list>
+               <head>THE Eight BEATITUDES.</head>
+               <item>Bleſſed are the poor in Spirit: for theirs is the Kingdom of Heaven.</item>
+               <item>Bleſſed are they that mourn: for they ſhall be comforted.</item>
+               <item>Bleſſed are the meek: for they ſhall inherit the Earth.</item>
+               <item>Bleſſed are they which do hunger and thirſt after Righteouſneſs: for they ſhall be filled.</item>
+               <item>Bleſſed are the merciful: for they ſhall ob<g ref="char:EOLhyphen"/>tain mercy.</item>
+               <item>Bleſſed are the pure in heart: for they ſhall ſee God.</item>
+               <item>Bleſſed are the Peace-makers: for they ſhall be called the Children of God.</item>
+               <item>Bleſſed are they which are perſecuted for Righteouſneſs ſake: for theirs is the Kingdom of Heaven.</item>
+            </list>
+            <div n="1" type="beatitude">
+               <pb n="3" facs="tcp:135133:20"/>
+               <head>
+                  <hi>The Firſt BEATITUDE.</hi> Bleſſed are the poor in Spirit: for theirs is the Kingdom of Heaven.</head>
+               <figure>
+                  <head>EMBLEME I. <hi>The</hi> Cornel-Tree.</head>
+                  <head>Tam nudus natus homo-1</head>
+                  <l>
+                     <hi>So naked (Bloſſom-like) you ſee</hi>
+                  </l>
+                  <l>
+                     <hi>A Man is born. Ah! but if he</hi>
+                  </l>
+                  <l>
+                     <hi>In Spirit were as poor! Then which</hi>
+                  </l>
+                  <l>
+                     <hi>'Mongſt Mortals here could I term Rich?</hi>
+                  </l>
+               </figure>
+               <pb n="4" facs="tcp:135133:21"/>
+               <p>
+                  <hi>THis</hi> Cornelia, <hi>or</hi> Cornel-Tree, <hi>in</hi> February <hi>begins to bloom, and bears bloſſoms long before there is any appearance of Leaves, to ſecure and ſhrowd them from the injuries of Wind and Weather. This is the true Embleme of Man, who is born naked, and ſprings forth like a tender Bloſſome; As</hi> Job <hi>ſaith,</hi> Naked came I from the womb of my Mother, and naked ſhall I return.</p>
+               <p>From which we may learn this Leſſon, That as man is born <hi>poor</hi> and naked in <hi>Body,</hi> ſo ſhould he be in <hi>Spirit;</hi> that is, in <hi>Will</hi> and <hi>Deſire;</hi> ſeeing that as he <hi>brought nothing into this World, ſo ſhall he not carry any thing out of it.</hi>
+               </p>
+               <p>Now foraſmuch as man is naturally too apt to be over-ſollicitous for the things o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this World, he may learn from this <hi>Cor<g ref="char:EOLhyphen"/>nell-Tree,</hi> That if he make it his firſt En<g ref="char:EOLhyphen"/>deavour to bud, and bloſſome, and fructi<g ref="char:EOLhyphen"/>fie in Virtue, a ſhort time will furniſh him with all the conſequent Advantages and Conveniences of Humane Life. For, this Tree does afterwards plentifully bring forth Leaves, to ſhelter and ſhadow its Fruit: As if it ſhould ſay, according to our Bleſſed Saviour's expreſſion, <hi>Firſt ſeek the Kingdom of Heaven;</hi> firſt bloom in <hi>Vir<g ref="char:EOLhyphen"/>tue,</hi>
+                  <pb n="5" facs="tcp:135133:21"/>nouriſh'd by the ſap of <hi>Grace,</hi> ſpread<g ref="char:EOLhyphen"/>ing it ſelf from the <hi>Root</hi> of Chriſtian Hu<g ref="char:EOLhyphen"/>mility, into all the Boughs and Branches; that is, into all your Actions; <hi>and all other things ſhall be added unto you.</hi> Leaves ſhall not be wanting, that is, Cloaths to cover you; beſides other Neceſſaries, which are all in fine but Leaves: Nay, Honours and Dignities, what are they but withering Leaves? What, Wealth or rich Apparel, but Leaves, whereof Man is ſoon deſpoil'd, and left poor and naked? What, voluptu<g ref="char:EOLhyphen"/>ous Pleaſures, but Leaves, which ſo ſoon as enjoy'd ſhrink up and vaniſh?</p>
+               <p>Oh! what a bleak Autumn and Fall of the Leaf (ſudden, and unexpected) is that we find in this our Vale of Miſery! Who then would not be <hi>poor</hi> in <hi>Spirit,</hi> and <hi>naked</hi> in his <hi>Affections</hi> to the leafy Creatures of this tranſitory Life, that he may bloom to Eternity?</p>
+               <p>This is the <hi>poverty,</hi> which lightneth the heart of Man, formerly clogg'd with too much care and follicitude. With this poverty of Spirit a Man runs freely towards Heaven his Country.</p>
+               <p>With this is accompanied Humility, which leſſeneth Man to himſelf, that he may lie hidden and ſecure, like a Bloſſom, under the Leaves, never to be blaſted with Pride.</p>
+               <pb n="6" facs="tcp:135133:22"/>
+               <p>On this Humility Patience attends, and enables a Man to ſuffer with Chriſt. It is the Enemy and Self-love that ſurcharge Man with worldly cares, riches, and vices; which are but Leaves, without the Bloſſoms of Virtue. Theſe are they which puff up Man with ambitious thoughts, that he, high aſpiring, may find a precipice. Theſe in<g ref="char:EOLhyphen"/>cite great Spirits to toil and labour; yet ſo as that, out of breath even to the World, they may happily at laſt reflect on Chriſt crucified, and, in his nakedneſs, read, <hi>Bleſ<g ref="char:EOLhyphen"/>ſed are the poor in Spirit; for theirs is the Kingdom of Heaven.</hi>
+               </p>
+               <p>Might not he be ſaid to be poor in Spi<g ref="char:EOLhyphen"/>rit, that lies gaſping and labouring for breath, while every minute he apprehends Death at his Elbow, ready to ſtifle him? To be as poor in Spirit in another ſenſe, is to conceive the like; That death is neigh<g ref="char:EOLhyphen"/>bouring as neer unto us, which when it comes, diſmantles the covetous Heart of Man, as well as his Body. Why then ſhall not I prevent him, by being diſengag'd from the extream deſire of Riches, and ve<g ref="char:EOLhyphen"/>rifie what S. <hi>Jerome</hi> aſ<g ref="char:EOLhyphen"/>ſures us to be true;<note place="margin">Caput jam caneſcit, prope est aest as vitae, falx acuitur, inſtat meſſor terribil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Gr. Nazianz.</hi>
+                  </note> That <hi>He eaſily contemns all things, who is always thinking that he ſhall die:</hi>
+                  <pb n="7" facs="tcp:135133:22"/>That, <hi>if his Body be a flouriſhing green Meadow, Death, the Mower, is at hand:</hi> That, <hi>if it be a beauteous Flower, in an in<g ref="char:EOLhyphen"/>ſtant 'tis cropt:</hi> And finally, <hi>If his Life be but a vapour, it is ſoon diſpell'd.</hi>
+               </p>
+               <p>Ah! what an earthy ſubſtance inter<g ref="char:EOLhyphen"/>poſeth 'twixt the Heart of Man and the Sun of Juſtice! And what a dark Eclipſe is thereby cauſed in their Souls who are not poor in Spirit?</p>
+               <div type="considerations">
+                  <head>CONSIDERATIONS ON THE I. BEATITUDE.</head>
+                  <head>Of our Bleſſed Saviour's Nakedneſs upon the Croſs.</head>
+                  <p>THe Crucifix, or Repreſentation of our Bleſſed Saviour crucifi'd, is a Book, wherein may be read the Eight <hi>Beatitudes,</hi> preached by him when he was upon Earth, as ſome conceive on Mount <hi>Thabor;</hi> and afterwards exemplifi'd in him on Mount <hi>Calvary.</hi>
+                  </p>
+                  <pb n="8" facs="tcp:135133:23"/>
+                  <p>At firſt aſpect, as your eye reflects on Chriſt crucified, you behold him naked, by which you may read the firſt Beatitude, <hi>Bleſſed are the poor in Spirit;</hi> that is to ſay, poor in <hi>Will</hi> and <hi>Deſire</hi> of having any thing of this World; and therefore he would die as naked as he came into it: Teaching us hereby, how naked we ſhould be in our Affections, ready to be deſpoil'd of worldly Riches for his ſake; And ſo poor in Spirit, as to loſe our laſt breath, rather then deny our Faith, or him, by preferring his Creatures before him.</p>
+                  <p>Conſider how poor our Lord and Savi<g ref="char:EOLhyphen"/>our was in Spirit, who did annihilate and evacuate himſelf, taking upon him the form of a Servant; And how, for thy Re<g ref="char:EOLhyphen"/>demption, he gave himſelf unto thee, and for thee; to reſtore thee to thy ſelf, who wert loſt and utterly undone by ſin.</p>
+                  <p>Now ſeeing he may wholly claim thee by right of Creation, whereby he gave thee to thy ſelf; what haſt thou left to render unto him for thy Redemption? In the Cre<g ref="char:EOLhyphen"/>ation of the World he ſpake the word, and it was done; but to redeem Man, he ſpake, did, and ſuffered that for which thou art infinitely indebted.</p>
+                  <p>Say then with the Prophet <hi>David, What ſhall I render to our Lord for all that which
+<pb n="9" facs="tcp:135133:23"/>he hath given me:</hi> He deſires but my ſelf, poor in Spirit, and naked in mine Affecti<g ref="char:EOLhyphen"/>ons to the tranſitory things of this Life; which cannot be, till I abandon my ſelf, whom while I cheriſh and pamper, through diſordinate love, I ſhall ſtill be coveting the pelf of the World, pleaſures, digni<g ref="char:EOLhyphen"/>ties, and ſelf-eſteem; ſo far from being poor in <hi>Spirit, Will,</hi> and <hi>Deſire,</hi> that I am involv'd and cloath'd, as it were, with a burthen of earthly Cares and Concupiſ<g ref="char:EOLhyphen"/>cences, which having caſt off by poverty of Spirit, we walk more freely towards Heaven our Country.</p>
+                  <p>A Begger, the more naked he appears, the more he moves to pity and compaſſion, and with more confidence intrudes to re<g ref="char:EOLhyphen"/>ceive an Alms then another in better Ap<g ref="char:EOLhyphen"/>parel. So, to beg an Alms from God, <hi>from whom every good and perfect gift deſcends,</hi> preſent thy ſelf as naked and poor in Spirit as thou canſt: Acknowledg thy ſelf to have been hitherto an unprofitable ſervant; naked, as to all deſert; poor and abject in Spirit, not having ſerv'd him with alacrity in time of afflictions, croſſes, or deſolations of ſoul.</p>
+                  <p>Then make a generous reſolution for the time to come, with a humble reſignation, to deſire or have nothing but with confor<g ref="char:EOLhyphen"/>mity
+<pb n="10" facs="tcp:135133:24"/>to his holy Will and Pleaſure, and ſay;</p>
+                  <p>
+                     <q>O moſt poor, and moſt enriching Lord, who doſt inveſt and cloath all, yet on the Croſs art naked: Bounteous in thy ſpiritual Graces and Favours; yet ſo poor in Spirit and Deſire, that thou haſt no place whereon to reſt thy dying head; yet haſt promiſed a Kingdom to thoſe who, with thee, are poor in Spirit. Be<g ref="char:EOLhyphen"/>hold, I renounce here whatſoever the flattering World ſhall allure me with: I abandon all rather than forſake thee: Nay, not only theſe exterior things; but I alſo deſire to be ſo naked and poor in Spirit, as not to have a <hi>Memory,</hi> but to call to mind and think often of thy infi<g ref="char:EOLhyphen"/>nite Mercy and Love towards me; no <hi>
+                           <g ref="char:V">Ʋ</g>nderſtanding,</hi> but to ruminate and ſe<g ref="char:EOLhyphen"/>riouſly ponder thy manifold Sufferings, and Benefits conferred on me; no <hi>Will,</hi> but to love thee, and my Neighbour in, and for thee: In ſuch ſort, that being entirely reſign'd to thy holy Will and Pleaſure, I may ſay with thine Apoſtle, <hi>I live; now not I, but Chriſt lives in me.</hi>
+                     </q>
+                  </p>
+                  <p>Were not he in ſome ſort poor in Spirit, that ſhould (if it were poſſible) live and breathe move and ſpeak, by <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <pb n="11" facs="tcp:135133:24"/>own? Such was S. <hi>Paul</hi>'s, in whom Chriſt (I may ſay) lived and breath'd, mov'd and ſpake.</p>
+                  <p>Contrariwiſe, How rich were he in Spi<g ref="char:EOLhyphen"/>rit (in Will and Deſire) whoſe Soul ſhould be wholly addicted to Self-love, and proper Intereſt? That breathes nothing wherein Chriſt is concerned, but purſues only Am<g ref="char:EOLhyphen"/>bition, (a Spirit that ſwells and puffs up the heart?) That moves not but by the agita<g ref="char:EOLhyphen"/>tion of a coveting Spirit: Like a Silk<g ref="char:EOLhyphen"/>worm; in fine, to involve it ſelf in a web of darkneſs and oblivion:</p>
+                  <p>
+                     <hi>It is a great and ſhameful abuſe</hi> (ſaith S. <hi>Bernard</hi>) <hi>for Man (a poor and abject Worm) greedily to covet Riches, for whom the Lord of Majeſty vouchſafed to bee poor.</hi> A ſhame to be always toiling and weaving like a Silk-worm; which as it ſhrowds it ſelf more and more, is the nearer death, to leave to Poſterity a ſilken web for Pride; as a Parent doth often-time his Inheritance, after a life unhappily conſum'd in avariti<g ref="char:EOLhyphen"/>ous Deſires, which, like a gloomy Cloud, had ſo darkened the eye of the Soul, that ſhe (which had been infus'd into the Body like a ray from Heaven) was even obſcuri<g ref="char:EOLhyphen"/>ty it ſelf: As S. <hi>Auguſtine</hi> complains; <hi>The blindneſs of mans heart is ſo great, and the inward ear of the Soul ſo deaf, that he de<g ref="char:EOLhyphen"/>ſires
+<pb n="12" facs="tcp:135133:25"/>to have all things but himſelf;</hi> which muſt be ſuch a Self, as he may truly ſay with <hi>David, What is there in Heaven for me? and</hi> (being poor in Spirit) <hi>what do I deſire on Earth but thee?</hi> My fleſh and heart faints and languiſheth; my Spirit is poor and enfeebled, to all that which this World preſents me with; <hi>Thou</hi> (O Lord) <hi>art the God of my heart, my portion, my God for ever.</hi>
+                  </p>
+                  <p>Unhappy then are the avaritious, who have a god (Gold their Idol,) but not <hi>for ever;</hi> rich in the deſire of earthly traſh, but unhappily poor in Spirit; that aſpire not to the poſſeſſion of that Treaſure which no ruſt ſhall canker, nor length of time conſume.</p>
+                  <p>How can I behold the naked Bloſſom ſpringing from the <hi>Cornell-Tree</hi> in cold <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> and not remember how I came in<g ref="char:EOLhyphen"/>to this wretched World, expoſed to <hi>Hunger, Thirſt, cold, heat, wearineſs, Infirmities, Death?</hi> Poor Bloſſom Man! How ſoon blaſted, how ſuddenly withered! which all thy leafy Riches cannot prevent. Who then would not rather be poor in Spirit? as naked in his Affections to worldly pelf, as his Savi<g ref="char:EOLhyphen"/>our dying naked on the Croſs? But naked, to enrich me; hungring and thirſting there, but to ſave me; cold, to infuſe into my
+<pb n="13" facs="tcp:135133:25"/>Soul the ardors of his Love; expos'd to heat, but to quench my immoderate De<g ref="char:EOLhyphen"/>ſires; weary, to refreſh me; weak, to ſtrengthen me; and finally, dying, to give me a life of eternal Beatitude, in a Kingdom which he hath promiſed to the <hi>poor in Spirit.</hi>
+                  </p>
+                  <p>I will conſider why King <hi>Danid</hi> is ſaid to have <hi>ſwept his Spirit, meditating with his heart in the night.</hi> Was it not by ſweep<g ref="char:EOLhyphen"/>ing, to caſt out of doors the duſt of worldly cogitations, and terrene deſires; which, like duſt, obſcures and even blinds the eyes of the Soul? Was he not poor in Spirit, when he had ſwept together and caſt out the duſt of tranſitory things, that he might contemplate the eternal? Therefore he ſaid in the precedent verſe, That <hi>he had thought of the ancient days and time of Mans life, wherein he enjoys Riches and worldly felicity;</hi> to which he oppoſing the Riches of Heaven and Eternity, ſays, <hi>He retain'd in mind the everlaſting years.</hi>
+                  </p>
+                  <p>If we have our ſeveral rooms in the vaſt habitacle of our Soul, none is ſo often to be ſwept as that where intrudes ſollicitude to be harboured, accompanied with care and anxiety of mind, together with fear, that preſents us with the future loſſes or croſſes which may occur: And therefore, for pre<g ref="char:EOLhyphen"/>vention,
+<pb n="14" facs="tcp:135133:26"/>all the powers of the Soul are ſum<g ref="char:EOLhyphen"/>moned to be vigilant and cautious, for the ſafegard and increaſe of wealth, by which poverty in <hi>Spirit</hi> and <hi>Will</hi> is caſt out of doors.</p>
+               </div>
+            </div>
+            <div n="2" type="beatitude">
+               <pb n="15" facs="tcp:135133:26"/>
+               <head>
+                  <hi>The Second BEATITUDE.</hi> Bleſſed are the meek: for they ſhall inherit the Earth.</head>
+               <figure>
+                  <head>EMBLEME II. <hi>The</hi> Indian Fig-Tree.</head>
+                  <head>Sic ſuvat eſse tenacem-2</head>
+                  <l>
+                     <hi>So do the Meek, to fix their Roots,</hi>
+                  </l>
+                  <l>
+                     <hi>Humbly let down as many Shoots,</hi>
+                  </l>
+                  <l>
+                     <hi>As good Deſires, which ſpring from Love,</hi>
+                  </l>
+                  <l>
+                     <hi>Take root in Heaven, the Land above.</hi>
+                  </l>
+               </figure>
+               <pb n="16" facs="tcp:135133:27"/>
+               <p>
+                  <hi>THis Tree, above all others, may be ſaid to be poſſeſſed of, or to in<g ref="char:EOLhyphen"/>herit the Earth: For the Bran<g ref="char:EOLhyphen"/>ches of it, bending downwards to the ground, no ſooner touch it, but they imme<g ref="char:EOLhyphen"/>diately take root, and grew up into other Trees, which afterwards produce others; ſo that in time they ſpread over all the ground they meet with; and yet all, though ſtragling over a great quantity of ground, way be ſold to be but one Tree. Ano<g ref="char:EOLhyphen"/>ther thing commonly obſerv'd of theſe Trees is, that they afford a ſecure retreat, not only to the wild Boars, and other Beaſts, but alſo to the Inhabitants of thoſe Countries where they grow, who, having garriſon'd themſelves within them, defie all Enemies.</hi>
+               </p>
+               <p>In like manner, a pious and fructifying Soul, in order to her poſſeſſion of the Land of the Living, produceth many active thoughts, diffuſes her ſelf into good acti<g ref="char:EOLhyphen"/>ons; which yet obeying the check of Hu<g ref="char:EOLhyphen"/>mility, deſcends, to be more deeply root<g ref="char:EOLhyphen"/>ed. Thus the Meek <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> on and lay hold of that which is their heavenly Inheri<g ref="char:EOLhyphen"/>tance, <hi>de virtute in virtutem,</hi> paſſing from one Virtue to another, and ſaying with S. <hi>Auguſtine, As yet I follow; yet I profit; yet I walk; yet I am in the way; yet I dilate my ſelf yet I arrive not.</hi>
+               </p>
+               <pb n="17" facs="tcp:135133:27"/>
+               <p>Behold, how like this <hi>Indian Fig-Tree,</hi> the devout Soul makes her progreſs, and advances forward, ſtill taking new root, ſtill laying faſter hold, never accounting her ſelf ſecure, or that ſhe hath done enough, as ſubmitting to the advice of the ſame S. <hi>Auguſtine,</hi> to wit, this; <hi>Let that which thou art always diſpleaſe thee, if thou wilt arrive to what thou art not. For</hi> (ſaith he elſewhere) <hi>wherever thou makeſt a ſtop, without proceeding any further, there thou pleaſeſt only thy ſelf.</hi> A man muſt not therefore ſix a <hi>Ne plus ultra</hi> to his better thoughts and Actions, but go on, like this Tree, and be continually ſupply'd with good Deſires, as that produceth new ſhoots, which as it were graſp the Earth, to take a firmer and fuller poſſeſſion thereof.</p>
+               <p>Moreover, we finde by experience, that when a Tree is ſlightly planted, or its roots decay'd, there needs no great ſtorm to overthrow it. Such is that man who is not humbly meek and patient: One vio<g ref="char:EOLhyphen"/>lent puff of anger is able to diſpoſſeſs him of the Land; yea, and of his own Soul, which cannot be poſſeſs'd but by patience, nor by any but the meek and humble.</p>
+               <p>Now if you demand why the meek are rather ſaid to poſſeſs the Land, than any other Element; I anſwer, While our Sa<g ref="char:EOLhyphen"/>viour
+<pb n="18" facs="tcp:135133:28"/>was mortal, he appeared to his Diſci<g ref="char:EOLhyphen"/>ples walking on the waves of the Sea, to intimate thereby the mutability of man during this life: But after his Reſurrecti<g ref="char:EOLhyphen"/>on, having a glorified Body, he ſtood on the firm Land, to ſignifie (as S. <hi>Gregory</hi> expounds) that after this life man ſhall en<g ref="char:EOLhyphen"/>joy a permanent tranquillity and repoſe in the Land of the Living.</p>
+               <p>The Earth patiently (as I may ſay) ſup<g ref="char:EOLhyphen"/>ports all, and continues immovable: So doth the meek and humble man; while the haughty and impatient are inconſtant, like the Air; turbulent, like the Sea; and crackle and ſparkle, like the Fire.</p>
+               <p>When the like happeneth unto thee, re<g ref="char:EOLhyphen"/>flect thine eye on the ſacred Head of thy Redeemer meekly bowing down, while the ungrateful Jews revile and blaſpheme againſt him, where he ſaith, <hi>Learn of me, for I am meek and humble of heart, and you ſhall find reſt in your Souls,</hi> tranquillity in your though is, and, in fine, that ſolid land that ſhall render you for ever happy; the Land of the living, which I now purchaſe for you; the Land of Promiſe, into which I am your <hi>Joſhua</hi> to conduct you; from <hi>Egypt</hi> (the World) a Land of Servitude, to a Land of Freedom and Immunity;
+<pb n="19" facs="tcp:135133:28"/>from feeding on Garlick and Onions, to taſte the ſweet Repaſt of Angels.</p>
+               <div type="considerations">
+                  <head>CONSIDERATIONS ON THE II. BEATITUDE.</head>
+                  <head>Of the bowing down of our Bleſſed Sa<g ref="char:EOLhyphen"/>viour's Head.</head>
+                  <p>HAving in the precedent Beatstude learn'd a leſſon of Poverty, by the conſideration of our Saviours nakedneſs on the Croſs, behold here his ſacred Head meekly bowing down, whereby is expreſ<g ref="char:EOLhyphen"/>ſed the ſecond Beatitude, <hi>Bleſſed are the meek; for they ſhall inherit,</hi> or poſſeſs, <hi>the Earth.</hi> Now as thoſe Waters which lye next the Shore, may be ſaid to poſſeſs the Shore, at leaſt during a Calm, ſo it can only be affirmed of the meek and patient man, that he poſſeſſeth his Soul; according to the words of our Saviour, In your pati<g ref="char:EOLhyphen"/>ence you ſhall poſſeſs your Souls; and,
+<pb n="20" facs="tcp:135133:29"/>
+                     <hi>Learn of me, for I am meek and humble of heart, and you ſhall find reſt to your Souls;</hi> a quiet calm, and ſweet repoſe.</p>
+                  <p>To be meek, is to converſe without giving offence, and to bear injuries with<g ref="char:EOLhyphen"/>out thought of Revenge, or perturbation of Mind; as our Lord did, with head meekly inclin'd, while the Jews uttered Blaſphe<g ref="char:EOLhyphen"/>mies and Contumelies againſt him.</p>
+                  <p>Having this Precedent ſtill before my eyes, I will reſolve in this Book to ſtudy meekneſs and patience, not rendring evil for evil, but by good to overcome evil.</p>
+                  <p>And the better to conceive the excel<g ref="char:EOLhyphen"/>lency of Meekneſs, I will make a lively re<g ref="char:EOLhyphen"/>preſentation to my ſelf of the Vice which is contrary thereto, by a ſwelling and tem<g ref="char:EOLhyphen"/>peſtuous Sea, whoſe Billows, rais'd by the Winds, violently beat againſt the Rocks on the Shore. Foaming thus with fury are the wrathful and impatient.</p>
+                  <p>Then reflect thine eye on our Lord meekly bowing down his Head, like a calm Sea, or like a Sheep deſpoil'd of his Fleece, naked on the Croſs, opening not his mouth, but to pray for his Enemies, ſay<g ref="char:EOLhyphen"/>ing, <hi>Father forgive them, for they know not what they do.</hi>
+                  </p>
+                  <p>Think what Land it is which the meek
+<pb n="21" facs="tcp:135133:29"/>ſhall poſſeſs. If the Earth thy Body, thou ſhalt have poſſeſſion of it, and dominion over it by meekneſs, while thy Paſſions are ſubject to reaſon. Contrariwiſe, the wrathful are ſo tranſported, that loſing as 'twere themſelves, they are caſt out of poſ<g ref="char:EOLhyphen"/>ſeſſion of themſelves, while the Heart ſwells with Envy, the Eyes ſparkle with Fury, the Feet are running, and the Hands ready to execute Revenge; like one fallen into a deep River, who not able to ſwim nor touch ground with his Feet, is overwhelm<g ref="char:EOLhyphen"/>ed, and in danger of drowning.</p>
+                  <p>Behold the ſtate of an angry and re<g ref="char:EOLhyphen"/>vengeful Man, who poſſeſſeth not the Land of ſolid Patience, being wholly drown'd in his turbulent Paſſions; loſeth himſelf ut<g ref="char:EOLhyphen"/>terly for a time, as a man diſtraught; whom by meekneſs God ſhould here poſſeſs in the Land of the Dying, that he may be poſſeſſed of God for ever in the Land of the Living, which is promiſed to the meek.</p>
+                  <p>Let him therefore who is become ſo ab<g ref="char:EOLhyphen"/>ſolutely a ſlave to that paſſion, make this ſhort Ejaculation to the great Exemplar of Meekneſs.</p>
+                  <q>
+                     <p>O patient Redeemer and meek Lamb, who takeſt away the ſins of the World; If by beholding the brazen Serpent, the poyſon of Serpents was expelled; how
+<pb n="22" facs="tcp:135133:30"/>can I behold thee, the pure and unſpotted mirror of Meekneſs, and yet retain en<g ref="char:EOLhyphen"/>mity and rancor in my heart? If no ſtorms and bluſtring winds are predo<g ref="char:EOLhyphen"/>minant at Sea, while the <hi>Halcyon</hi> is neſtling and brooding neer the ſhore, grant all ſtormy Paſſions may be allay'd by thy powerful preſence in my heart; by thee only, who art the ſolid Land, and my total happineſs; which I beſeech I may poſſeſs here on Earth by Grace, and afterwards in Glory.</p>
+                     <p>Let Worldlings contend, and vex themſelves about recovery or poſſeſſion of Lands, of which they muſt in fine be diſpoſſeſs'd; It is good for me to ad<g ref="char:EOLhyphen"/>here to God, and ſeek him in the Land of the Living, where the humble, meek, and patient (whoſe Hearts on Earth were a place of ſweet repoſe) enjoy him in eternal tranquillity.</p>
+                  </q>
+                  <p>
+                     <hi>The Kingdom of Heaven is within you</hi> (ſaith our Lord:) And conſequently, that firm and compleat tranquillity of Heaven begins on Earth by Grace, to be perfected by Glory. Within this little Kingdom of ours, what a commotion is rais'd by wrath! what a perturbation by enmity! what a rebellion, when Meekneſs and Patience is baniſhed out of the Soul by Paſſion!</p>
+                  <pb n="23" facs="tcp:135133:30"/>
+                  <p>When ſuch mutinies therefore ariſe within me, whither ſhall I haſten for re<g ref="char:EOLhyphen"/>dreſs? To whom ſhall I ſeek for aſſiſtance? but to the wounded Head of my Saviour, meekly bowing down to give me the kiſs of Peace, and infuſe meekneſs into my Soul! But now (alas!) he is not able by words to command the ſtorm to ceaſe, as he did when his Apoſtles feared drowning. No. But will it not ſuffice to pacifie thee (O my Soul) enrag'd, to behold thy Lord and meek Lamb more firmly fix'd by pati<g ref="char:EOLhyphen"/>ence and meekneſs, then by the nails that transfix'd his hands and feet? What a com<g ref="char:EOLhyphen"/>motion was then in the Univerſe? the Earth opening, Rocks ſplitting, the Temples Veil rending, the Thief reviling, and the Jews blaſpheming. And if at that time the Stars were ſhining, they were like ſo many Eyes to admire the wonderful meekneſs and patience of our Redeemer.</p>
+                  <p>In fine, If the corporal Eye, dull'd and dazled with a long and tedious aſpect of glittering objects; If (I ſay) that be re<g ref="char:EOLhyphen"/>freſh'd by looking ſtedfaſtly on a green Emerald, ſhall not the ſight of his ſacred Head meekly inclining, be as powerful to baniſh from the inward Eye that dark cloud of paſſionate wrath that circumvolves and ſtupifies the intellectual part?</p>
+                  <pb n="24" facs="tcp:135133:31"/>
+                  <p>
+                     <hi>I will go</hi> (ſaid <hi>Moſes</hi>) <hi>and behold this great Viſion, why the buſh that burns con<g ref="char:EOLhyphen"/>ſumes not.</hi> For could he expect leſs than a crackling noiſe from a thorny Buſh envi<g ref="char:EOLhyphen"/>roned with Flames? If this were miracu<g ref="char:EOLhyphen"/>lous, what is it to behold that very God of <hi>Abraham,</hi> God of <hi>Iſaac,</hi> and God of <hi>Jacob</hi> (which appeared in the Buſh) with a Head meekly bowing down, wreath'd with a Crown of Thorns, amidſt flames of Love, burning, but not conſuming; meekly hearing the Jews, and patiently ſuffering, while they blaſphem'd, revil'd, and ſcorn'd him? O my Soul, what a great Viſion is this to iuvite thee to meek<g ref="char:EOLhyphen"/>neſs and patience! Thou likewiſe art in<g ref="char:EOLhyphen"/>clos'd as in a thorny Buſh, (thy Body) where for a light injury, or ſmall affront, thou doſt not only burn, but art even con<g ref="char:EOLhyphen"/>ſum'd with the flame of wrath and indig<g ref="char:EOLhyphen"/>nation, ſparkling and crackling like a Fire amongſt Thorns.</p>
+                  <p>To prevent the like flames of fury, go ſometimes to ſee this great Viſion, the Head of thy Saviour crown'd with Thorns, meekly bowing down, and as it were beckning unto thee, to come and learn of him, to be meek and humble of heart; learn to poſſeſs thy ſelf, and thereby take poſſeſſion of the Land which he hath pro<g ref="char:EOLunhyphen"/>miſed
+<pb n="25" facs="tcp:135133:31"/>to the meek and humble of heart.</p>
+                  <p>God placed in the Clouds his bended Rain-bow that he might be mindful of his Covenant; and on the Croſs he hath fix'd his only begotten Son, whoſe head meekly bending while he beholds, he becomes a meek and merciful God to man, who by his manifold ſins provokes him to wrath. How then, canſt thou elevate thine eyes ſparkling with wrath againſt them that injure thee, and not be pacified, when thou beholdeſt this meek wounded Head, bowing down to give thee the kiſs of Peace: meekly hearing, and patiently bearing blaſphemous words and wrongs that were ſo outragious and injurious to Innocence? What then ſhould a guilty ſoul patiently ſuffer for his ſake? If His ſa<g ref="char:EOLhyphen"/>cred head be crown'd with ſharp thorns, wouldſt thou have thine (notwithſtand<g ref="char:EOLhyphen"/>ing) be encompaſſed with Roſes? If his head meekly bow down, ſhall thine be rais'd up by pride? or threaten revenge to them that offend thee? Finally, if his brow pierc'd with thorns, be not any way contracted with wrinkles againſt his ene<g ref="char:EOLhyphen"/>mies, ſmooth thy furrowed brow by meek<g ref="char:EOLhyphen"/>neſs, and, for his ſake, and according to his example, love even thoſe that hate thee.</p>
+               </div>
+            </div>
+            <div n="3" type="beatitude">
+               <pb n="26" facs="tcp:135133:32"/>
+               <head>
+                  <hi>The Third BEATITUDE</hi> Bleſſed are they that mourn, for they ſhall be comforted.</head>
+               <figure>
+                  <head>EMBLEME III. <hi>The</hi> Myrrhe-Tree.</head>
+                  <head>Tam lachrymoſus homo — 3</head>
+                  <l>
+                     <hi>So of himſelf, as ſoon as born,</hi>
+                  </l>
+                  <l>
+                     <hi>The tender Bahe begins to mourn;</hi>
+                  </l>
+                  <l>
+                     <hi>But after, pierc'd with griefs and ſears,</hi>
+                  </l>
+                  <l>
+                     <hi>Hee's more and more diſtilling tears.</hi>
+                  </l>
+               </figure>
+               <pb n="27" facs="tcp:135133:32"/>
+               <p>
+                  <hi>THe</hi> Myrrhe-Tree, <hi>of it ſelf natu<g ref="char:EOLhyphen"/>rally diſtil's, and, as it were, ſheds tears; but more abundantly when it is prick'd and wounded. Behold the Em<g ref="char:EOLhyphen"/>bleme and Type of Man, who is born weep<g ref="char:EOLhyphen"/>ing, as being</hi> (<hi>to uſe Saint</hi> Auſtin<hi>'s ex<g ref="char:EOLhyphen"/>preſſion</hi>) <hi>a Prophet preſaging his own future calamities.</hi>
+               </p>
+               <p>Man likewiſe naturally weeps for the loſs or death of a dear friend; ſo doth a Pa<g ref="char:EOLhyphen"/>rent for his loſt, or deceaſed Child; as <hi>Jacob</hi> did for <hi>Joſeph,</hi> and <hi>David</hi> for his Son <hi>Ahſalon.</hi> Such tears ought to be mo<g ref="char:EOLhyphen"/>derate, according to the ſaying of the Son of <hi>Sirach, Modicùm plora ſuper mortuum: Weep not much over the dead.</hi>
+               </p>
+               <p>Temporal loſſes and afflictions do alſo force tears, from thoſe who ſuffer them, as they did from <hi>Job</hi> cap. 24. v. <hi>ult. My harp alſo is turned to mourning, and my organ in<g ref="char:EOLhyphen"/>to the voice of them that weep.</hi>
+               </p>
+               <p>But when a man ſheds tears out of re<g ref="char:EOLhyphen"/>morſe and compunction, he is wounded like the Myrrh-Tree. Thus was <hi>David</hi> wounded, when he ſaid, <hi>In the night-time, I will waſh my bed with my tears.</hi> What ſins how great and enormous ſoever, but may be ſwallowed up in ſuch a flood, as <hi>Pha<g ref="char:EOLhyphen"/>raoh</hi> and his Army was in the red Sea? Or
+<pb n="28" facs="tcp:135133:33"/>what Flames can be ſo great, as not to be extinguiſh'd by ſuch a fountain?</p>
+               <p>There are likewiſe tears of Compaſſion, as <hi>Job</hi> ſays, <hi>I wept over him that was af<g ref="char:EOLhyphen"/>flicted, and my ſoul took compaſſion on the poor.</hi> After this manner, <hi>David</hi> weeps for <hi>Saul;</hi> and <hi>Tobias</hi> for his Countrey men, oppreſs'd with miſeries.</p>
+               <p>With like tears of Commiſeration, we may mourn with our Lord, while we me<g ref="char:EOLhyphen"/>ditate on his bitter Paſſion: for, as S. <hi>A<g ref="char:EOLhyphen"/>guſtine</hi> ſays, <hi>He is not a true member of Chriſts Body, that weeps not with the Head.</hi>
+               </p>
+               <p>There are likewiſe tears of Devotion, which iſſue forth out of an ardent deſire to enjoy the happy Viſion of God. Or, when a devout Soul, repleniſhed with the ſweetneſs of God, mourns for the ab<g ref="char:EOLhyphen"/>ſence of her beloved Spouſe. <hi>For, Love</hi> (ſaith S. <hi>Auguſt.</hi>) <hi>is impatient, neither is there any moderation in tears, unleſs the Lover may enjoy that which he loves.</hi>
+               </p>
+               <p>Tears likewiſe are ſhed by devout per<g ref="char:EOLhyphen"/>ſons, when they behold grievous ſins com<g ref="char:EOLhyphen"/>mitted, which are ſo injurious and offen<g ref="char:EOLhyphen"/>ſive to Almighty God. After this manner <hi>Eſdras</hi> wept, and the Apoſtles for their Lord, when he was ſo cruelly treated by the Jews, as he had foretold, ſaying, <hi>you ſhall mourn and weep.</hi>
+               </p>
+               <pb n="29" facs="tcp:135133:33"/>
+               <p>Moreover, tears are ſhed by thoſe, who, out of Devotion, and exceſs of ſpiritual joy, even melt with the contemplation of heaven<g ref="char:EOLunhyphen"/>ly Myſteries. Which kind of joy, S. <hi>Auguſtine</hi> had experienced, when he aſſures us, that the more a devout Soul is filled with holy and fervent deſires, the more abundantly he weeps in Prayer; and mourns, as <hi>David</hi> did, crying out, <hi>Ay is me that my ſojourning and abode on earth is prolonged: I have dwelt with the inhabitants of Kedar; my ſoul hath been a long time a ſtranger. Therefore my tears have been bread to me day and night, while it is ſaid unto me, Where is thy God?</hi>
+               </p>
+               <p>Our bleſſed Saviour ſpeaking of his Paſſion, calls it a Baptiſm, by which his ſacred body was bathed in blood, and his face in tears, like the Myrrhe-tree wound<g ref="char:EOLhyphen"/>ed on all ſides and parts of his body with thorns, whips, nails, and ſpear. Behold him in this ſad and heavy plight, mourn and weep with him, while he exemplifies in himſelf the third Beatitude, <hi>Bleſſed are they who mourn, for they ſhall be comforted.</hi>
+               </p>
+               <div type="considerations">
+                  <pb n="30" facs="tcp:135133:34"/>
+                  <head>CONSIDERATIONS ON THE III. BEATITUDE.</head>
+                  <head>Of the Eyes of our Bleſſed Saviour weeping.</head>
+                  <p>IN this third Beatitude, conſider a happi<g ref="char:EOLhyphen"/>neſs oppoſite to fleſh and blood, <hi>viz.</hi> to weep and mourn; which our Lord did many times, but never was ſeen to laugh. He mourn'd and wept on the Croſs, and was comforted; ſeeing by the effuſion of tears, and blood, he was to redeem us from the tyranny of Satan.</p>
+                  <p>Mourning is an attendant as unſeparable from man, as the ſhadow from the body. He that condoles the death of a dear friend, mourns in black for a year. How long then, ſhall he mourn that lives as an exile upon earth! If he call to mind his mani<g ref="char:EOLhyphen"/>fold ſins, how can he do leſs then mourn? Or, if he ſeriouſly think of the dreadful day of Judgment, how can he but fearfully conſider what he ſhall be, and mourn, not knowing the event. Or, if he fix his
+<pb n="31" facs="tcp:135133:34"/>thoughts on the many miſeries and dangers of this Life, ſhould he not mourn, conſider<g ref="char:EOLhyphen"/>ing where he is? Or finally, elevating his eyes from the reſidence of mortality, can he contemplate the joyes of Heaven, and not aſpire and ſigh with <hi>David,</hi> becauſe his ſojourning is prolong'd? not mourn, becauſe he is not where he would be?</p>
+                  <p>O my Soul, What haſt thou been? Sinful. Where ſhalt thou be? As yet it is unknown. Where art? A Priſoner in thy Body, in a vale of tears. Where art thou not? Not in Heaven; not with God thy Centre, but in the way a Pilgrim go<g ref="char:EOLhyphen"/>ing towards him. Run, then, that thou mayſt comprehend; <hi>And ſeeing to be diſ<g ref="char:EOLhyphen"/>ſolv'd, and he with Chriſt is thy happineſs,</hi> weep with him, that with him, and by him, thou mayſt be comforted.</p>
+                  <p>Here pauſe a while, and then conſider; To contemn the world, is to be poor in Spirit. To have Repoſe of Mind is to be meek; after which follows Mourning. For if a Man attend to himſelf and others, he ſhall find nothing but what is la<g ref="char:EOLhyphen"/>mentable, while he beholds his own, and all the enormous crimes of the world, which is altogether bent to malignities; Who then can be ſo inſenſible as not to mourn? ſo drie as not to ſhed one tear?</p>
+                  <pb n="32" facs="tcp:135133:35"/>
+                  <p>O my Soul, Is it thou which art ſo bar<g ref="char:EOLhyphen"/>ren? If to ſuffer with Chriſt be to reign with him; to be comforted, thou muſt weep with him. If he call thy ſins his own, if he mourn for thine, as if they were his own; if he ſhed tears, to waſh away thy ſinful blotts: canſt thou forbear weeping? Canſt thou be ſo ſtony-hearted, as not to be transfixt with grief, ſeeing his tender Heart wounded, and his Eyes ſhed<g ref="char:EOLhyphen"/>ding tears for thy ſins? Not one tear for thy ſelf, while he ſhowers down ſo many to purifie, and cleanſe thy feſtering Heart, ſoyl'd with ſo many Crimes!</p>
+                  <p>O bleſſed Saviour! Thou art the true <hi>Moſes,</hi> and haſt a Rod to ſtrike, as well as to guide; wound (I beſeech thee) this ſtubborn Rock of mine, this obdurate Heart, that it may bleed with grief, and ſorrow for my ſins; That mine Eyes may guſh forth with tears: for this is the onely grief which I deſire; this, the mourning which produceth Conſolation: for thou haſt ſaid it, <hi>Bleſſed are they that mourn, for they ſhall he comforted;</hi> in this Life, with ſpiritual ſolace, given to true penitents; and in the future, with perpetual joy, in perfect Beatitude.</p>
+                  <p>Perfect Beatitude! Compleat Happi<g ref="char:EOLhyphen"/>neſs! O! ſhall I not mourn to find com<g ref="char:EOLhyphen"/>fort
+<pb n="33" facs="tcp:135133:35"/>there? Or ſhall I rather ſeek the fleeting Pleaſures, and tranſitory Conſo<g ref="char:EOLhyphen"/>lations of worldly felicity: which to enjoy, is inſtantly to be reduc'd to mourning. Shall I not (then) mourn, and ſigh after thoſe Comforts, which, once obtain'd, ſhall exempt me from all mourning?</p>
+                  <p>Alaſs! Whither can I caſt mine Eye in this vale of tears, and not behold an Ob<g ref="char:EOLhyphen"/>ject that extracts tears, and invites to mourning? Here I behold manifold diſ<g ref="char:EOLhyphen"/>eaſes; There dyſaſtrous and untimely deaths; In this place, mortal Hatred ac<g ref="char:EOLhyphen"/>companied by Revenge; In that, I hear Detractions, horrible Oaths, and Blaſphe<g ref="char:EOLhyphen"/>mies, with infinite miſeries and calamities. And if I reflect an Eye on my ſelf, what mutinies of rebellious Paſſions and diſor<g ref="char:EOLhyphen"/>dinate Appetites I diſcover in my own boſom, which made even Saint <hi>Paul</hi> him<g ref="char:EOLhyphen"/>ſelf mournfully to cry out, Ay me! un<g ref="char:EOLhyphen"/>happy Man, <hi>Who ſhall deliver me from the body of this death,</hi> that is, from a body which cauſeth a ſpiritual death to the Soul.</p>
+                  <p>Notwithſtanding all this, ſhall I think to transform this our vale of tears into a Paradiſe of delights? This our gloomy ſhade and ſhadow of death, into a ſolid ſubſtance of joy and contentation? Do I
+<pb n="34" facs="tcp:135133:36"/>not know that <hi>Enoſh</hi> (a Man, in the Hebrew Tongue) ſignifies one ſubject to diſeaſes, infirmities, and miſeries? What then is this wretched world, but an Ho<g ref="char:EOLhyphen"/>ſpital for the ſick, and a Houſe of <hi>Lazars;</hi> with which, what ſuites better than mourning?</p>
+                  <p>How can I (then) but reflect on my ſelf, and bewail what I am; a Child of <hi>Adam, born of a Woman</hi> (ſaith <hi>Job</hi>) <hi>and living but a ſhort time,</hi> ſubject to many miſeries. Amongſt which, ſhall I live in jollity, with the Volup<g ref="char:EOLhyphen"/>tuous; ſport, with the Libertine; gourman<g ref="char:EOLhyphen"/>dize, with the Epicure; joy in worldly pelf, with the covetous; or in honors, with the ambitious? No: <hi>I have reputed laugh<g ref="char:EOLhyphen"/>ter an error,</hi> (ſaith the Wiſe-man) <hi>and to joy, I ſaid, Why art thou in vain deluded?</hi> The end of joy is ſeiz'd on by ſorrow and mourning. And <hi>it is better to go to the houſe of mourning, then to the houſe of ban<g ref="char:EOLhyphen"/>quetting.</hi> Better is it, amidſt of afflictions to mourn with our Lord weeping on the Croſs, than amidſt vain joys and tranſi<g ref="char:EOLhyphen"/>tory delights, to exult with the impious. Better to ſhed one tear with thy Redeemer, drench'd in a briny flood, than a thouſand for temporal diſaſters.</p>
+                  <p>Ah! me-thinks I ſee dropps of blood diſtilling from his Head, wounded with
+<pb n="35" facs="tcp:135133:36"/>thorns, and from thence deſcending to his weeping Eyes, to make a mixture, ſuch as was in his Heart, of blood and water. Tears from his Eyes trickling down his pale cheek, to aſcend from thence to the Throne of his Father, to ſpeak in my be<g ref="char:EOLhyphen"/>half. As <hi>David</hi> ſaid, (it may be in the perſon of Chriſt) <hi>Hearken unto my tears.</hi> And ſhall I joyn with him in this Petition, exhibited for the waſhing away of my ſins, and yet not diſtill one tear? Shall the Ma<g ref="char:EOLhyphen"/>ſter of Requeſts preſent to his Majeſty, the Humble Petition of ſome great De<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nquent, with tears in his Eyes; and the party (guilty) ſtand by, not onely tear<g ref="char:EOLhyphen"/>leſs, but alſo with a merry countenance? Nay, ſhould he ſecond it with laughter, what were it but to make expreſſion of the little (or no) reſentment and feeling he had, of his crime and preſent peril?</p>
+                  <p>Such is the ſtate of voluptuous ſinners, who are ſo far from mourning, that they re<g ref="char:EOLhyphen"/>joyce in evil-doing, ſpend their dayes in mirth and jollity, and in an inſtant deſcend to Hell.</p>
+                  <p>Oh! rather let us ſit with the Iſraelites by the Rivers of <hi>Babylon,</hi> (fleeting de<g ref="char:EOLhyphen"/>lights of the world), elevate our Eyes to our Heavenly Country, and mourning, ſay, <hi>How ſhall we ſing the Lord's ſong in a
+<pb n="36" facs="tcp:135133:37"/>ſtrange Country,</hi> the world, into which we came weeping, ſurcharg'd but with one ſin, and ſhall we not mourn here, over<g ref="char:EOLhyphen"/>loaden with many? Not return to Earth, (from whence we came) powring out (if it were poſſible) a flood of tears for the expiation of our manifold crimes?</p>
+                  <p>The Myrrh-Tree wounded, diſtills abundantly tears; ſo may the Sinner, pierc'd to the heart by compunction. The Turtle mournes for the abſence of her Mate; ſo may the Soul of the juſt Man, to be united to her beloved Spouſe. The Hart transfixt with an Arrow dyes weep<g ref="char:EOLhyphen"/>ing; ſo may the ſinner wounded by true contrition, dye to himſelf, and live to Chriſt. A fiſh lives by waters, and a Chriſtian was born again by water; And, living in a vale of tears, ſhould be like <hi>Ros Solis,</hi> a plant which even in the heat of Summer is alwayes repleniſhed with dew; like a <hi>Magdalen,</hi> who obtain'd re<g ref="char:EOLhyphen"/>miſſion by tears, and by tears was accom<g ref="char:EOLhyphen"/>panied by our Saviour weeping: And fi<g ref="char:EOLhyphen"/>nally, by tears, had the prerogative to ſee him firſt riſen from death.</p>
+               </div>
+            </div>
+            <div n="4" type="beatitude">
+               <pb n="37" facs="tcp:135133:37"/>
+               <head>
+                  <hi>The Fourth BEATITUDE.</hi> Bleſſed are they that hunger and thirſt after righteouſneſs: for they ſhall be filled.</head>
+               <figure>
+                  <head>EMBLEME IV. <hi>The</hi> Clove-Tree.</head>
+                  <head>Sicamor attrahat ardens <hi>4.</hi>
+                  </head>
+                  <l>
+                     <hi>Be ſo attractive that no weed,</hi>
+                  </l>
+                  <l>
+                     <hi>(Pernicious) near the Soul may breed:</hi>
+                  </l>
+                  <l>
+                     <hi>So Thirſt and Hunger, not in part,</hi>
+                  </l>
+                  <l>
+                     <hi>Virtue 's the</hi> Clove <hi>bloomes in the Heart.</hi>
+                  </l>
+               </figure>
+               <pb n="38" facs="tcp:135133:38"/>
+               <p>
+                  <hi>THis Tree may in an eſpecial man<g ref="char:EOLhyphen"/>ner be ſaid to</hi> hunger <hi>and</hi> thirſt, <hi>as having ſuch an attractive power, that it draws to it ſelf all the heart and moiſture of the ground where it grows; inſomuch that for a conſiderable di<g ref="char:EOLhyphen"/>ſtance round about it, the Earth is ſo far from hearing any thing of Graſs or other Plants, that it is abſolutely ſmooth and bare.</hi>
+               </p>
+               <p>
+                  <hi>When the fruit is come to maturity, it is not gather'd, but beaten down upon the ſaid bare plot; and having been left there a cer<g ref="char:EOLhyphen"/>tain time to wither, it is brought into</hi> Europe, <hi>and is one of the moſt advantageous Commo<g ref="char:EOLhyphen"/>dities brought from the</hi> Eaſt-Indies.</p>
+               <p>
+                  <hi>In the</hi> Spaniſh <hi>Tongue it is called,</hi> Clavos, <hi>in the French,</hi> Cloux, <hi>that is to ſay,</hi> Nails, <hi>from its near reſemblance thereto; and thence in</hi> Engliſh, <hi>they are called</hi> Cloves. <hi>At firſt they are white, afterwards they become green, and at laſt they turn red.</hi>
+               </p>
+               <p>
+                  <hi>Nay, it hath been lately diſcover'd as a cheat of the Inhabitants, who have the man<g ref="char:EOLhyphen"/>agement and diſpoſal of this pretious Spice, that, ſome time before they look for the arri<g ref="char:EOLhyphen"/>val of the Ships out of</hi> Europe, <hi>they carry up into the Store-houſes, where they keep their Cloves, ſeveral great veſſels full of water,
+<pb n="39" facs="tcp:135133:38"/>which in a ſhort time is attracted by the Cloves, and adds much to their weight, yet ſo as that neither the Sight nor Feeling can make any diſcovery of the impoſture.</hi>
+               </p>
+               <p>Behold here the pertinent Emblem of a truly-Chriſtian Soul, <hi>hungring and thirſt<g ref="char:EOLhyphen"/>ing after righteouſneſs;</hi> and ſo earneſtly at<g ref="char:EOLhyphen"/>tracting the nouriſhing moiſture of Heaven<g ref="char:EOLhyphen"/>ly Grace, that there is no entertainment for any pernicious weed of ſin, ſo much as to take any root near her.</p>
+               <p>But poſſibly, ſome one will ſay, that this Tree draws all to it ſelf. 'Tis true, it does ſo: but not to the advantage onely of it ſelf. For that moiſture and ſtrength which it draws from the Earth, is diffus'd into the ſeveral parts of it, in order to the production of bloſſoms and Fruit. And ſo it ſhould be with the devout Chriſtian, <hi>who hungers and thirſts after righteouſneſs;</hi> what juice he extracts out of the root of ſpiritual Contemplations, ought to ſpread its vigour into his Life and Actions, as he ſtands accomptable to his Creator, his Neighbour, or Himſelf; whereby the great Author of all Gifts and Graces may be glorify'd.</p>
+               <p>Again, if it be ſaid that the <hi>Clove-Tree</hi> is ſo attractive, as to draw all the moiſture
+<pb n="40" facs="tcp:135133:39"/>to it ſelf for its own benefit; In like man<g ref="char:EOLhyphen"/>ner, the hungry and thirſty Chriſtian ſhould make his advantages of all things, in purſuit of the Kingdom of Heaven and the righteouſneſs thereof.</p>
+               <p>Moreover, whereas it is the deſign of Nature, that this Tree as well as all other Plants, ſhould bring forth their ſeveral fruits for the ſervice and benefit of Man; he may thence learn, that he alſo ought to render to his Neighbour what in juſtice is due to him.</p>
+               <p>In fine, Whereas the <hi>Cloves</hi> are firſt <hi>white;</hi> next, <hi>green;</hi> and laſtly, <hi>red;</hi> May they not inſtruct us (confidering our beſt fruits are but Bloſſoms) that our inten<g ref="char:EOLhyphen"/>tions ſhould be candid and ſincere, and re<g ref="char:EOLhyphen"/>late onely to Gods glory?</p>
+               <p>And when <hi>green,</hi> may they not as aptly ſignifie, that our better works are but green bloſſoms, not perfect Fruits, for want of maturity?</p>
+               <p>Laſtly, what are our works but <hi>red Cloves,</hi> when they are dignified by Chriſts precious blood? <hi>Cloves</hi> on the Tree muſt be beaten down to come to perfection, and after gathered; So muſt all our works, to be humbly preſented to the Eye of Mercy; not of Juſtice: In whoſe fight who can be juſtified?</p>
+               <pb n="41" facs="tcp:135133:39"/>
+               <p>The parched <hi>Clove</hi> is for the uſe of Man; And the work that ſhrinks up with fear, is grateful to God. But how ſhall a Soul have her fill by hungring and thirſting after Juſtice? What ſatiety, what full content can there be in this world? Certainly none, till it enjoyes the ſight of God.</p>
+               <p>Hence we may inferr, (with Saint <hi>Thomas</hi>) that in Virtue there is onely a reſemblance of future Beatitude. Say, our righteouſneſs like a <hi>Clove</hi> appear white; how pure ſo-ever, 'tis but a bloſſom, which receiving a tincture of green, (the ſym<g ref="char:EOLhyphen"/>bole of Hope) we are thereby inabled to proceed; For Hope may be term'd a <hi>Clove,</hi> or <hi>Naile,</hi> by which we are fixt to God in his promiſe, and faſten in his mer<g ref="char:EOLhyphen"/>cy, while the <hi>red Clove,</hi> or deep-piercing nail of Juſtice penetrating the Heart, pro<g ref="char:EOLhyphen"/>duceth fear, to which likewiſe being as firmly fix'd, we freely ſerve God with fear, and exult with trembling. Mean while, let us ſeem to hear our Saviour ſay, <hi>I thirſt,</hi> whereby is exemplified the Fourth Beati<g ref="char:EOLhyphen"/>tude; <hi>Bleſſed are they who hunger and thirſt after Righteouſneſs, for they ſhall be filled.</hi>
+               </p>
+               <div type="considerations">
+                  <pb n="42" facs="tcp:135133:40"/>
+                  <head>CONSIDERATIONS ON THE IV. BEATITUDE.</head>
+                  <head>On our Bleſſed Saviour's ſacred Mouth, ſaying, <hi>I Thirſt.</hi>
+                  </head>
+                  <p>FRom our Saviour's Eyes, I deſcend to his Mouth, and ſeem to hear him ſay, <hi>I thirſt,</hi> whereby is expreſſed this fourth Beatitude. For he did hunger and thirſt after righteouſneſs; not for himſelf, but for us, that we might be juſtified by his Death and Paſſion. And to that end would (to ſatisfie for our ſins) ſuffer in all rigour of Juſtice, that it might be ſatisfied to the full, and we endowed with righteouſneſs, that we might more and more thirſt after Grace, never ſatiated till his Glory ap<g ref="char:EOLhyphen"/>pears.</p>
+                  <p>Conſider what Saint <hi>John Chryſoſtome</hi> ſayes: That, he hungers and thirſts after righteouſneſs, who deſires to live accord<g ref="char:EOLhyphen"/>ing to the Juſtice of God, and wiſheth this juſtice and rectitude of life as well to others as to himſelf. That Juſtice is
+<pb n="43" facs="tcp:135133:40"/>call'd diſtributive, which gives to every one his due. To God I muſt render three things, <hi>viz.</hi>
+                  </p>
+                  <list>
+                     <item>Honour, as to my Creator,</item>
+                     <item>Love, as to my Redeemer, and</item>
+                     <item>Fear to him, as my Judge.</item>
+                  </list>
+                  <p>To my Neighbour likewiſe I muſt ren<g ref="char:EOLhyphen"/>der three things:</p>
+                  <list>
+                     <item>Obedience, to my Superiour,</item>
+                     <item>Charity and Love, to my equal, and</item>
+                     <item>Charitable Benevolence, to my in<g ref="char:EOLhyphen"/>feriour in want.</item>
+                  </list>
+                  <p>And three things I muſt procure for my ſelf:</p>
+                  <list>
+                     <item>Purity of my Heart,</item>
+                     <item>Government of my Tongue, and</item>
+                     <item>Order and Diſcipline, in ſubjecting the body to the Spirit.</item>
+                  </list>
+                  <p>This three-fold Juſtice muſt I hunger and thirſt after, and examine my ſelf wherein I am defective: Remembring what Saint <hi>Jerome</hi> ſaith, That it will not ſuffice to deſire Juſtice, but we muſt hunger and thirſt after it; Yet never think our
+<pb n="44" facs="tcp:135133:41"/>ſelves juſt enough, but muſt more and more thirſt after Juſtice, as our Lord com<g ref="char:EOLhyphen"/>mands, <hi>He that is juſt, let him be more juſt; and he that is holy, more holy.</hi>
+                  </p>
+                  <p>Conſider what a hunger and thirſt that is of the Worldling, who ſtill covets more and more Wealth; The Voluptuous Man more and more Pleaſure; And the Ambi<g ref="char:EOLhyphen"/>tious Man more and more Honour. Nei<g ref="char:EOLhyphen"/>ther of theſe can have their fill, becauſe the Soul is of infinite capacity; and therefore cannot be fill'd with all the world can poure into it. Unhappy then are thoſe Men who hunger and thirſt, yet never are ſatisfied. And contrariwiſe, <hi>Bleſſed are they that hunger and thirſt after righteouſneſs,</hi> to whom is promiſed ſuch fullneſs as ſhall wholly inebriate and ſatiate the Soul and Heart; whoſe Capacity is immenſe, and, being created to enjoy God, is inſatiable and reſtleſs, till it enjoyes his ſight: As Saint <hi>Auguſtine</hi> ſaith, <hi>Becauſe thou (O Lord) haſt made us for thee, our Heart is never at quiet until it comes unto thee.</hi>
+                  </p>
+                  <q>
+                     <p>O my ſoul, be ever languiſhing and thirſting after this compleat happineſs. Is it poſſible thou ſhouldſt have ſuch a drought, that, naturally deſiring to be bleſſed, and fill'd with the glory of God, thou ſhouldſt notwithſtanding
+<pb n="45" facs="tcp:135133:41"/>hunger and greedily deſire things upon earth, and not thoſe above?</p>
+                     <p>O bleſſed Saviour thou didſt thirſt, and they gave the vinegar and gall: but, to quench my thirſt, thou haſt promiſed me the water of life, ſo that I ſhall ne<g ref="char:EOLhyphen"/>ver thirſt more. Give me (O Lord) of this water; for hitherto I have digg'd and ſought it in the broken and leaking Ciſterns of thy Creatures; or in riches, dignities, and pleaſures, which never ſa<g ref="char:EOLhyphen"/>tiate.</p>
+                     <p>Thou wert hungry after a faſt of for<g ref="char:EOLhyphen"/>ty days, and the Enemy preſented thee with ſtones to be turn'd into bread. But for me, if I truly hunger after righte<g ref="char:EOLhyphen"/>ouſneſs, thou haſt and doſt give me the bread of life, thy real body, to feed and ſtrengthen my ſoul to life everlaſting. This is the daily and ſuperſubſtantial bread which I ſhould hunger after, and for which I daily beg, and without which I cannot ſubſiſt. This was prefi<g ref="char:EOLhyphen"/>gured by Manna, which relieved the <hi>Iſ<g ref="char:EOLhyphen"/>raelites</hi> in the Wilderneſs, without which they had been famiſh'd. Such is the de<g ref="char:EOLhyphen"/>ſart of this world, ſuch thy true Body, which unleſs a man eat, and worthily eat, he ſhall not have life in him.</p>
+                     <p>Jeſu! be unto me a Saviour, and re<g ref="char:EOLhyphen"/>deem
+<pb n="46" facs="tcp:135133:42"/>me from worldly vanities, which, like air, never fill or ſatiate an hungry ſoul Thou art the Way, lead and direct me; Thou the Life, revive and quicken me; Thou my greateſt and only Good, make me hunger and thirſt after thee; Only after thee, becauſe all that can be deſi<g ref="char:EOLhyphen"/>red may be found in thee, which may incite to love. If beauty, thou (O God) art the faireſt: If benefits, thou daily and liberally conferreſt them on me: If love, (to invite to love again) thine is the greateſt: As my Creator, thou gav'ſt me a being: As my Redeem<g ref="char:EOLhyphen"/>er, thou freedſt me from thraldom; as a Preſerver, thou didſt and doſt deliver me from perils ſpiritual and corporal. Therefore thy Prophet <hi>David</hi> ſaid, My ſoul hath thirſted after thee the living fountain: To thee he thirſted, who art the moſt amiable, the moſt noble, and moſt excellent Good; a God, and all things. To thee he thirſted, a ſtrong God, a good permanent, immutable, and eternal. To thee a living God, ope<g ref="char:EOLhyphen"/>rative, vigorous, intellectual, loving, and conferring on me innumerable bene<g ref="char:EOLhyphen"/>fits. How then can I do leſs then hun<g ref="char:EOLhyphen"/>ger and thirſt after thee who art ſo good, ſo gracious, ſo bountiful, ſo loving?
+<pb n="47" facs="tcp:135133:42"/>Nay, how can I contain my ſelf within the limits of thy Creatures, that was created to ſo noble an end as is the blisful ſight of Thee? How can I forbear from crying out with thy ſervant <hi>David,</hi> When ſhall I come and appear before thy face. If I am a pilgrim, thou wilt conduct me to my deſired Countrey: If I am hungry and thirſty, thou wilt ſatiate me with the fruition of thy ſight; If I am naked, thou wilt there cloath me with glory.</p>
+                  </q>
+                  <p>Theſe things have I call'd to mind, (ſaid <hi>David Pſa.</hi> 41.) and thereupon I poured forth my ſoul within my ſelf like a ſtreamling to return to God my Ocean, as a river doth to the ſea whence it was deriv'd; I have dilated my ſoul, and extended her thirſting deſire, which nothing can ſatiate and fill, but God only. Nay more, I have poured out my ſoul upon my ſelf: And there (alas) what could ſhe find, but one ſo poor as not any way able to quench her thirſt, who is capable of a Good immenſe.</p>
+                  <p>Or when I poured out my ſoul upon my ſelf, as water ſtreaming on the ſuperficies of the earth, I ſuffered it not to be ſuckt and ſwallowed up by ſelf-love, but to ſtream ſorth towards that River which makes joy<g ref="char:EOLhyphen"/>ful the City of God. Becauſe I will (ſaid <hi>David</hi>) paſs on to enter into the place of
+<pb n="48" facs="tcp:135133:43"/>the admirable Tabernacle, even unto the houſe of God. Even as a poor Beggar tra<g ref="char:EOLhyphen"/>velling on the rode in the heat of Summer, being very weary, leaves the high way, to find ſome good Gentleman's houſe, to be refreſht, and to quench his thirſt; ſo doth <hi>David,</hi> thirſting, ſay, He will paſs through all difficulties and obſtacles whatſoever, to arrive at Gods houſe, there to quench his thirſt; &amp; lodg in that admirable Tabernacle.</p>
+                  <p>But his arrival at the houſe of God be<g ref="char:EOLhyphen"/>ing deferred, he reſolves to make uſe of local memory. And to this end deſigns two ſpecial places, the River <hi>Jordan,</hi> and Mount <hi>Hermonijm.</hi> When he beholds the firſt, it puts him in mind of the River above, which makes joyful the City of God, and of the Torrent of delight, of which the bleſſed are given to drink. And when he caſts his eye on the ſecond, he calls to mind the holy and bliſsful Mount of Heaven, where God manifeſts himſelf to his An<g ref="char:EOLhyphen"/>gels and Saints. Therefore (ſaith he) I will be mindful of thee (O God) from the land of <hi>Tordan,</hi> while I behold this river, and likewiſe, when I ſee the little Mount <hi>Hermonijm.</hi>
+                  </p>
+                  <p>Who (then) fixing his eye on Mount <hi>Cal<g ref="char:EOLhyphen"/>vary,</hi> can forget his Saviours ſufferings; or who can but remember how he hungred
+<pb n="49" facs="tcp:135133:43"/>and thirſted after righteouſneſs, when he hears him cry out, <hi>I thirſt,</hi> that is to ſay, the ſalvation of mankind, and that righte<g ref="char:EOLhyphen"/>ouſneſs for us ſinners, whereby we are a<g ref="char:EOLhyphen"/>dopted, and made the children of God.</p>
+               </div>
+            </div>
+            <div n="5" type="beatitude">
+               <pb n="50" facs="tcp:135133:44"/>
+               <head>
+                  <hi>The Fifth BEATITUDE.</hi> Bleſſed are the merciful, for they ſhall obtain mercy.</head>
+               <figure>
+                  <head>EMBLEME V. <hi>Adam</hi>'s Apple-Tree.</head>
+                  <head>Dum detrahis, exigis, auge:</head>
+                  <l>
+                     <hi>Man merciful,</hi> t' <hi>augment his ſtore,</hi>
+                  </l>
+                  <l>
+                     <hi>So cloaths and feeds the naked-poor.</hi>
+                  </l>
+                  <l>
+                     <hi>For, giving leſs, he more receaves:</hi>
+                  </l>
+                  <l>
+                     <hi>Such Trees are known by fruit and leaves.</hi>
+                  </l>
+               </figure>
+               <pb n="51" facs="tcp:135133:44"/>
+               <p>THere hath ſuch a particular notice been taken of this Tree, in the ſeveral Countries where it grows, that it is accordingly called by ſeveral names, which yet we ſhall not give an ac<g ref="char:EOLhyphen"/>count of, in regard it is not ſo much the denomination, as the Vertues and Quali<g ref="char:EOLhyphen"/>ties, that make it contribute to our deſign. And therefore we ſhall, with <hi>Gerard;</hi> call it, <hi>Adam's Apple-tre.</hi>
+               </p>
+               <p>The merciful man (which in the Latine Tongue is called <hi>Miſericors</hi>) is he who hath a ſorrowful and compaſſionate heart for anothers miſery, a heart inclining him to relieve and ſuccour ſuch as ſtand in need of his aſſiſtance, in their extream wants. <hi>Such a merciful man may be de<g ref="char:EOLhyphen"/>ſign'd by this Tree, whoſe Roots being as it were but ſmall threads, or fibres, do ſhoot forth leaves that are five or ſix foot in length, and near three in breadth. Inſomuch that they ſerve for Table-cloaths, and Napkins; and, being dry'd, they may ſerve for Mat<g ref="char:EOLhyphen"/>treſſes and Quilts, very convenient and ſoft to lye upon.</hi>
+               </p>
+               <p>Behold here the Emblem of a merciful Man, who parts with his leafy ſubſtance, to cloath the naked, to relieve the poor, to ſupply the wants of the needy, to ſuc<g ref="char:EOLhyphen"/>cour
+<pb n="52" facs="tcp:135133:45"/>the neceſſitous. This is the man, who, by his charitable endeavours, con<g ref="char:EOLhyphen"/>ceals the miſcarriages and imperfections of his Neighbour. For mercy, when it is the iſſue of Charity, hath the ſame pre<g ref="char:EOLhyphen"/>rogative with the Parent, which is (as St. <hi>Peter</hi> ſaith) <hi>To cover a multitude of ſins.</hi>
+               </p>
+               <p>
+                  <hi>Moreover, this Tree (which groweth above the reach of an Elephant) would continue a low ſhrub, and the Leaves would bend down<g ref="char:EOLhyphen"/>wards to the ground, if they were not cut off from time to time; by which means, the Tree grows up higher, and the Leaves become larger.</hi>
+               </p>
+               <p>What can more pertinently denote the Merciful man, who, by a voluntary defal<g ref="char:EOLhyphen"/>cation of the things of this World, is rais'd ſo much the nearer Heaven; I and the more freely he parts with the tranſito<g ref="char:EOLhyphen"/>ry goods of this life, the greater treaſure does he lay up for that hereafter? By theſe advantages, doth he ſtill aſcend higher and higher, while others keeping all to themſelves, do, like ſhrubs, lye groveling on the Earth, in their covetous deſires.</p>
+               <p>There is this further Remark made up<g ref="char:EOLhyphen"/>on this Tree; that <hi>it needs be planted but once, though it bears but one year. For it continually ſhooteth forth new ſtalks as the old
+<pb n="53" facs="tcp:135133:45"/>decay; and in ſome Countries they are ſoon ripe, after they ſpring, and the Inhabitants will have ripe fruit, from ſome of the Plants at all times.</hi>
+               </p>
+               <p>The caſe is the ſame with the Merciful man; who, as ſoon as he hath done one act of Charity, is ready to do another, and ſo ſucceſſively, as if he were oblig'd to exhauſt himſelf, to ſupply others; and this from time to time, till his own be come to its period, and that he leaves the young ſhoots of his poſterity to ſucceed him in his good works.</p>
+               <p>Hereto we may add this further obſer<g ref="char:EOLhyphen"/>vation, that beſides this Tree, there is only one other, that hath a ſtrange pro<g ref="char:EOLhyphen"/>perty, to wit, that, <hi>which way ſoever their fruit be cut, when it is come to maturity, the meat thereof, which is white as ſnow, re<g ref="char:EOLhyphen"/>preſents in the midſt of it, the figure of a Croſs, eſpecially if it be cut in thin ſlices; as commonly we do Cow-cumbers. Thence is it, that the</hi> Spaniards <hi>and</hi> Portugueze <hi>think it a crime to put a knife into it, and are ex<g ref="char:EOLhyphen"/>treamly ſcandaliz'd, to ſee it broken otherwiſe then with the teeth.</hi>
+               </p>
+               <p>Hath not this ſome reſemblance to the heart of a Merciful man, who hath a cer<g ref="char:EOLhyphen"/>tain fellow-feeling of the miſeries and ca<g ref="char:EOLhyphen"/>lamities of the poor whom he views with
+<pb n="54" facs="tcp:135133:46"/>affliction of mind. Which way ſoever, he caſts his eye of pity, and beholds the di<g ref="char:EOLhyphen"/>ſtreſſed, he compaſſionates them, as if the like croſs of adverſity were fix'd in his heart. If he behold his Saviour on the Croſs, his heart is wounded with pity as if the paſſion were figured in it.</p>
+               <p>Again, if he view his Neighbour op<g ref="char:EOLhyphen"/>preſſed with wrongs or miſeries, he is ſo ſenſible thereof, as if that very croſs of affliction were engraven in his heart. In a word, he ſees no man poor, whom he pi<g ref="char:EOLhyphen"/>ties not; no man miſerable, whom he does not compaſſionate; ſtill (like the fruit of this Tree cut) bearing in his heart a croſs, by which he ſuffers with him.</p>
+               <p>Nay more, while he beholds Chriſt in a poor man (whom he pities and relieves) he bears Chriſt's ſhape in his heart, whom he likewiſe relieves.</p>
+               <p>Happy, therefore, is the merciful man, that bears ſuch a croſs, as renders him for ever bleſſed, who (no doubt) may ſay with St. <hi>Paul, God forbid I ſhould glory in any thing, but in the Croſs of our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt.</hi>
+               </p>
+               <p>Now fix thine eye on the bleeding ſide of Chriſt, whoſe blood iſſued from a wounded heart, where was always engra<g ref="char:EOLhyphen"/>ven a croſs, not only the inſtrument of his
+<pb n="55" facs="tcp:135133:46"/>paſſion; but as many croſſes as were the ſins of the World: And as many as were the acts of mercy and compaſſion which he produc'd towards ſinners; <hi>Verè pius, verè miſericors.</hi>
+               </p>
+               <p>And ſhall he evacuate not only his veins, but likewiſe his heart? Shall he disburſe all the treaſure of his moſt precious blood, and yet wilt thou be ſo penurious and piti<g ref="char:EOLhyphen"/>leſs, as not to relieve the neceſſitous with part of thy droſs?</p>
+               <p>Ah! view, and view again, that bounti<g ref="char:EOLhyphen"/>ful, and pitiful heart, that ſtreameth forth at his ſide, and proclaims them <hi>bleſſed, who are merciful,</hi> and promiſeth <hi>they ſhall obtain mercy.</hi>
+               </p>
+               <div type="considerations">
+                  <pb n="56" facs="tcp:135133:47"/>
+                  <head>CONSIDERATIONS ON THE V. BEATITUDE.</head>
+                  <head>On the ſide of our Bleſſed Saviour bleeding.</head>
+                  <p>FRom his ſacred Mouth deſcend to his pierced ſide; which may be likewiſe term'd a mouth, as were all the wounds of his body, that ſpeak and proclaim him a bounteous, and merciful Lord; who, ha<g ref="char:EOLhyphen"/>ving given all the blood of his body and veins for our Redemption, would finally ſuffer his heart to be pierc'd, that the laſt drops of his precious bloud might ſtream from thence, for a fuller ſatisfaction, or rather expreſſion of his infinite Love. Whereas the leaſt drop thereof might have redeem'd many Worlds, and reconcil'd to his Father, as many Nations as he ſhed drops of blood.</p>
+                  <p>Conſider what a merciful giver was God the Father, who ſo exceedingly loved man, that he gave unto him his only begotten Son; a Son likewiſe ſo good, bounteous,
+<pb n="57" facs="tcp:135133:47"/>and merciful, that he would annihilate and leſſen himſelf, by taking upon him the form of a Servant. And after (as the Fa<g ref="char:EOLhyphen"/>ctor did for one precious Pearl) gave all his precious blood, and life, to purchaſe and redeem thy Soul, and thereby obtain mer<g ref="char:EOLhyphen"/>cy for it.</p>
+                  <p>Which, notwithſtanding, thou ſhalt never find, unleſs thou alſo be Merciful. To whom? To thy ſelf, and thy Neigh<g ref="char:EOLhyphen"/>bour. To thy ſelf, according to the words of the Son of <hi>Syrach, Take pity and com<g ref="char:EOLhyphen"/>paſſion on thine own ſoul, pleaſing God.</hi>
+                  </p>
+                  <p>Think, how many Souls are languiſhing in ſin; How many ſtarve for want of the food of Life, the Bleſſed Sacrament; How many groan under the heavy burden of ſin: And how mercileſs they are to them<g ref="char:EOLhyphen"/>ſelves, that reſcent not the dangerous eſtate of their own ſouls.</p>
+                  <p>To theſe thou art merciful, when thou prayeſt for them; or by word, or example endeavoureſt to reclaim them. Thou art merciful likewiſe when thou forgiveſt inju<g ref="char:EOLhyphen"/>ries, or when thou doſt commiſerate and condole the defects, and imperfections of others.</p>
+                  <p>Contrari-wiſe they are cruel, who un<g ref="char:EOLhyphen"/>braid and deride them, or expoſe them to the deriſion of others, by diſcovering their
+<pb n="58" facs="tcp:135133:48"/>ſins, to whom they ſhould be as merciful and charitable, in concealing, as if they were their own, not forgetting the ſevere ſentence of S. <hi>James, Judgement without mercy be unto him that doth no mercy.</hi>
+                  </p>
+                  <p>Conſider how God is ſo pleaſed with mercy ſhewed to our Neighbour, that to ſuch only as do it, he hath promiſed mer<g ref="char:EOLhyphen"/>cy. And withall hath commanded us to beg for pardon and remiſſion of our ſins, as we remit and fully forgive them, who trepaſs againſt us. And that ſo freely and abſolutely as not to retain the leaſt rancor or malice in our hearts.</p>
+                  <p>Which to accompliſh, when any enmity or uncharitable thought is ſlily creeping in<g ref="char:EOLhyphen"/>to thy heart, reflect thine eye on Chriſt cru<g ref="char:EOLhyphen"/>cified, who (as ſaith S. <hi>Bernard</hi>) to heap mercies on mercies, gave his life, and out of his wounded ſide brought forth the price of ſatisfaction, whereby he fully pa<g ref="char:EOLhyphen"/>cified his Father, according to the words of <hi>David, With our Lord is mercy, and plen<g ref="char:EOLhyphen"/>tiful redemption.</hi>
+                  </p>
+                  <p>Hereupon thou mayſt infer, that whoſo<g ref="char:EOLhyphen"/>ever ſeek for mercy, and ſecurity in Chriſts wounded ſide, muſt come, like <hi>Noe's</hi> Dove, to the window of the Ark, that brought an Olive-branch in his Beak, which is the type of mercy and peace; To
+<pb n="59" facs="tcp:135133:48"/>ſignifie, they muſt be merciful and chari<g ref="char:EOLhyphen"/>table to others, who expect to find mercy there.</p>
+                  <p>
+                     <q>O my ſoul, ariſe, and ſhake off thoſe dull cogitations of enmity that ſurcharge thy heart, that thou mayſt nimbly fly, and be like the Dove, neſtling in the hole of the Rock, the pierc'd and patient ſide of thy Saviour. That when thou art purſued by the Enemy (like a Dove by the Hawk, that ſhrowds himſelf in the hole of a rock) here thou mayſt find ſuccour, and ſecure thy ſelf. Here is the gate of mercy and pity, which always ſtands wide-open, where at all times thou mayſt find habour in the ſecure calm of mercy.</q>
+                  </p>
+                  <p>To be merciful, is to have a grievous, and pitiful heart. Ah! how pitiful was that wounded heart of thy Saviour, which for thy ſake was pierc'd through with a Spear. Compaſſionate, and have, with him, a heart wounded with grief and pity: Com<g ref="char:EOLhyphen"/>miſerate the diſtreſſed members of his my<g ref="char:EOLhyphen"/>ſtical Body in him, and then thou canſt not but be merciful to thy ſelf, and find mercy for thy ſelf, being one of his.</p>
+                  <q>
+                     <p>O merciful Redeemer, I behold blood and water ſtreaming from thy heart, and iſſuing out of thy wounded ſide.
+<pb n="60" facs="tcp:135133:49"/>By that precious blood I was redeemed and made one of thine: And by the wa<g ref="char:EOLhyphen"/>ter of Baptiſm I was purified and made one of thine. To perſevere ſtill and con<g ref="char:EOLhyphen"/>tinue one of thine ſtill, may that door of mercy (thy wounded ſide) be open unto me. May I be dead to the world, and ſin, that wounded (as with a Spear) with true love and charity, I may never by ſin, cauſe this gate of mercy to be ſhut againſt me.</p>
+                     <p>Thou (O Lord) didſt vouchſafe to give freely the laſt drops of blood (which were in thy heart) for a more compleat Redemption. Grant (I beſeech thee) that I may ſpend the remnant of my days in thy holy ſervice, in works of mercy, ſpiritual and corporal; that finally I may obtain mercy, through thee my Lord and Saviour Jeſus Chriſt. <hi>Amen.</hi>
+                     </p>
+                     <p>O my ſoul, conſider what it is to find mercy through Jeſus Chriſt, to which thou ſo often ſayſt <hi>Amen,</hi> or <hi>So be it.</hi> It is to find mercy by the vertue and me<g ref="char:EOLhyphen"/>rits of his bitter Paſſion: Yet this will not ſuffice, if thou beeſt not merciful to him likewiſe in his.</p>
+                  </q>
+                  <p>So great is the vertue of Mercy (ſaith S. <hi>Leo</hi>) that without it all other vertues will not profit thee. No, though a man be
+<pb n="61" facs="tcp:135133:49"/>faithful, chaſte, and ſober, and endued with ſingular ornaments; yet if he be not merciful, he deſerves not mercy.</p>
+                  <p>And remember that thy works of mercy muſt be done through Chriſt our Lord, to be dignified by vertue of his Paſſion, and for his ſake, otherwiſe they ſhall have no reward. The right hand muſt not know what the leſt hand doth: No ſiniſter or by-intention muſt intrude. A charitable work muſt be a work of juſtice, when we render to God the glory only due to him, and to our ſelves reſerve the reward, which (pro<g ref="char:EOLhyphen"/>miſed) we expect. Nay more, an Alms hath the honour to be call'd Juſtice it ſelf. For our Saviour adviſeth us to beware that we do not our Juſtice before men, that we may be ſeen by them, and have the applauſe and praiſe of men.</p>
+                  <p>In fine; Who would not in this manner be merciful, that knows in the old Law, no Sacrifice (Ox or Sheep) might be offered in the Temple, that had not a tail: which in a myſtical ſenſe might prefigure, that, even in the Law of Grace, no work of mercy (which is a kind of Sacrifice to God) can be acceptable, which hath not an end, that is, a right intention tending to Gods ho<g ref="char:EOLhyphen"/>nour, and for his ſake. If we cry, out with <hi>Zachaeus, Ecce!</hi> Behold (when he gave ſo
+<pb n="62" facs="tcp:135133:50"/>great an Alms as the moity of his Goods) it may ſeem to ſavour of oſtentation, till we add farther, with him, <hi>Domine, Behold, O Lord,</hi> I give to thee what is thine; as to <hi>Caeſar,</hi> what is his, in reſpect of his figure ſtamp'd in it. So in my Alms I behold thee, and contribute thine for thy ſake: like <hi>Zachaeus,</hi> little conſidering my poor a<g ref="char:EOLhyphen"/>bility, yet preſent a work (like the Widow with her Mite) great, in regard of a free and willing heart. Should I give it to be magnified by others, What could I behold therein but mine own ſhape? like a <hi>Nar<g ref="char:EOLhyphen"/>ciſſus,</hi> enamored with himſelf, court the ſhadow, and loſe the ſubſtance. An Alms is a work of Redemption. Redeem thy ſins by Alms, works of mercy. It is an entire Expiation; Give Alms, and all ſhall be pure unto you.</p>
+               </div>
+            </div>
+            <div n="6" type="beatitude">
+               <pb n="63" facs="tcp:135133:50"/>
+               <head>
+                  <hi>The Sixth BEATITUDE.</hi> Bleſſed are the pure in heart, for they ſhall ſee God.</head>
+               <figure>
+                  <head>EMBLEME VI. <hi>The</hi> Fig-Tree.</head>
+                  <head>Nec Corniſi punctum. <hi>6.</hi>
+                  </head>
+                  <l>
+                     <hi>So pierc'd and pierc'd with ſorrow's dart,</hi>
+                  </l>
+                  <l>
+                     <hi>Compunction from a ſinners heart</hi>
+                  </l>
+                  <l>
+                     <hi>And eyes, extracteth tears, while grace</hi>
+                  </l>
+                  <l>
+                     <hi>(The oppoſite to ſin) takes place.</hi>
+                  </l>
+               </figure>
+               <pb n="64" facs="tcp:135133:51"/>
+               <p>
+                  <hi>OF this Tree, there are ſeveral kinds, differing, according to the ſeveral Countries, wherein they grow; the name being generally attributed to all thoſe Trees, which bear a fruit that hath ſome re<g ref="char:EOLhyphen"/>ſemblance to the Fig. But that, which is the ſubject of the preſent Emblem, grows commonly in</hi> Spain <hi>and</hi> Italy, <hi>though poſſibly brought thither, at firſt, from ſome other parts of the World. It bears a Fig, without the production of any precedent Bloſſom, which as it ſhould ſeem, hath in it, during the time of its greenneſs, a raw humour; whoſe cru<g ref="char:EOLhyphen"/>dity is ſuch, that it ripeneth not, till a certain Fly or Gnat, gives it a prick or wound. Soon after the Fig hath receiv'd that wound, there diſtills from it a kind of tear, which falls to the earth. After which, the Sun entring in at that narrow paſſage, made by the Fly, the Fig by degrees comes to maturity.</hi>
+               </p>
+               <p>Behold here the Emblem of a Heart, truly contrite, wounded by compunction, and pierc'd with ſorrow; which before, while it was green, was not in a capacity to re<g ref="char:EOLhyphen"/>ceive the influences of the Sun of Righte<g ref="char:EOLhyphen"/>ouſneſs; and conſequently could not be ripned, till a paſſage was made for the eva<g ref="char:EOLhyphen"/>cuation of the peccant humour, that ſo the beams of grace might efficaciouſly work up<g ref="char:EOLhyphen"/>on it.</p>
+               <pb n="65" facs="tcp:135133:51"/>
+               <p>Let us then conſider, that if this delicate fruit does upon its piercing or wounding diſtil tears, and that in order to its attain<g ref="char:EOLhyphen"/>ment of maturity; it is much more requi<g ref="char:EOLhyphen"/>ſite that the devout Chriſtian ſhould en<g ref="char:EOLhyphen"/>dure the ſtings of remorſe and compuncti<g ref="char:EOLhyphen"/>on, in order to his being advanc'd to that perfection, which is requir'd in the pure of Heart.</p>
+               <p>To this end is it, that a Man ought ſometimes (as Saint <hi>Auguſtine</hi> ſayes) <hi>to make his appearance at the Tribunal of his own Soul, where his own Thoughts will be his Accuſers, his Conſcience the Witneſs, and Grief the Executioner, to wound the ſinful Heart. Then,</hi> ſaith he, <hi>let the blood, as it were, of the Soul f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w and iſſue forth by tears.</hi> Notwithſtanding all this, <hi>Who</hi> (ſaith <hi>Solomon</hi>) <hi>will glory that he hath a clean Heart?</hi> True it is, no Man ſhould glory herein, but give the Glory onely to God. Yet ſince the pure of Heart ſhall onely ſee God, ſuch purity of Heart is re<g ref="char:EOLhyphen"/>quired, as is produc'd by the expulſion of ſin, and infuſion of Grace. Therefore <hi>David</hi> humbly deſired, <hi>that his ſin might be blotted out,</hi> and that <hi>within him might be created a clean Heart.</hi> Not a new Heart created, but purity therein; which being produc'd, without any precedent merit of
+<pb n="66" facs="tcp:135133:52"/>the finners part, may be term'd a Crea<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Therefore Saint <hi>Paul</hi> tells us, <hi>That Cha<g ref="char:EOLhyphen"/>rity</hi> (which is the ſame ſpiritual quality with Grace) <hi>is transfus'd into our Souls;</hi> which gives life and vigour, in ſome ſort, as the Soul created and infus'd, informs and gives life and motion to the body.</p>
+               <p>Me-thinks a Fig, (when but green) pierc'd and wounded as it were by the Gnat, lies expos'd to the bright and hot beams of the Sun; as the Heart of a ſin<g ref="char:EOLhyphen"/>ner doth to the Sun of Juſtice when 'tis plerc'd by compunction. Ah! what Light of Faith, and heat of Love enters through thoſe new <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ade paſſages of the Contrite Heart, by which it becomes as it were a new Heart, ripened by Virtue, and embelliſhed by Grace?</p>
+               <p>Now elevate thine Eyes to behold the wounded Heart of our Lord, not with the ſting of a Gnat, but with a ſharp Spear; not to receive any light or heat of Conſo<g ref="char:EOLhyphen"/>lation, but to lay out the entire ſumm of that infinite treaſure of his precious blood, beſides water, to purifie thy impure Soul, that thou mayſt be bleſſed and ſee God, thereby to enjoy eternal Beatitude.</p>
+               <div type="considerations">
+                  <pb n="67" facs="tcp:135133:52"/>
+                  <head>CONSIDERATIONS ON THE VI. BEATITUDE.</head>
+                  <head>On our Bleſſed Saviour's wounded Heart.</head>
+                  <p>HAving in the Fifth Beatitude, (like a Dove neſtling in the hole of a Rock, as at the Gate of Mercy) entred by Contemplation into Chriſt's wounded ſide, now make a ſtep farther, or rather, with reverence ſtay and view his wounded Heart, moſt pure and clean, where ſin could never find entrance; and ſay, with the Patriarch <hi>Jacob, Verily here is no other than the Houſe of God, and the Gate of Heaven.</hi> This is the Bleſſed One, pure of Heart, who ever had the happy ſight of God.</p>
+                  <p>Conſider what it is to be clean of Heart. It is to be the Temple of the Holy Ghoſt: To be in the ſtate of Grace, that is, not guilty of any mortal ſin.</p>
+                  <p>And ſince the Heart is the Source and Fountain whence our thoughts perpetually
+<pb n="68" facs="tcp:135133:53"/>flow; to ſuppreſs all impure cogitations, as they are riſing, is to have a clean Heart, when it is accompanied with a pure inten<g ref="char:EOLhyphen"/>tion, directing all our actions to the Honor and Glory of God. And as Saint <hi>Augu<g ref="char:EOLhyphen"/>ſtine</hi> ſaith, <hi>Whatſoever we do, whatſoever we laudably deſire, muſt tend to obtain the Vi<g ref="char:EOLhyphen"/>ſion of God, beyond which nothing can be deſired.</hi>
+                  </p>
+                  <p>Think of the Queſtion propounded by King <hi>David: O Lord, Who ſhall dwell in thy Tabernaele, or who ſhall reſt in thy holy hill?</hi> And then attend to the Anſwer, which is this: <hi>He that liveth uprightly, and work<g ref="char:EOLhyphen"/>eth righteouſneſs,</hi> &amp;c.</p>
+                  <p>This is a hard ſaying. Muſt the Heart be ſo clean as not to have one ſpot? The Child but a day old is not free, and in his Angels God found iniquity. Who, then, ſhall be juſtified in his ſight? Or who can be clean of Heart, while the All-ſeeing Eye of Heaven beholds it.</p>
+                  <p>Appeal (then) to the pure Heart of thy Saviour; rely on his Innocence, not on thine own; on his merits, not on thine. Seeing that Veſſel of Election ſaid, he was guilty of nothing, and yet in that he was not juſtified; yet doubted not to ſay, <hi>A Crown of righteouſneſs was due unto him, which the juſt Judge would give him.</hi>
+                  </p>
+                  <pb n="69" facs="tcp:135133:53"/>
+                  <p>I will therefore ſay with <hi>David, O Lord turn away thy face</hi> (of thy ſevere Juſtice) <hi>from my ſins.</hi>
+                  </p>
+                  <p>And with him add further, <hi>Shew me thy face</hi> (that is to ſay, of thy mercy) <hi>and I ſhall be ſaved.</hi> According to thy great mercy, and multitude of thy mercies, can<g ref="char:EOLhyphen"/>cell my iniquity; waſh me again from mine iniquity, and cleanſe me from my ſin; that I may be clean of Heart to enjoy thy ſight.</p>
+                  <p>O my Soul, <hi>Keep thy Heart</hi> (as the Wiſe man adviſeth thee) <hi>with all kind of cuſtody; for out of it</hi> (ſaith he) <hi>proceeds life.</hi> Keep it pure, let not in one mortal ſin to defile it; for then from the Heart would proceed Death, deſtruction of Grace, and loſs of the ſight of God; for Grace is the ſeed of Glory. Let thy Heart be ploughed by Contrition, harrow'd and cleans'd from the weeds of ſin, that this divine ſeed may be ſowen in thy Heart, which ſprings up by holy deſires, and is ripened by virtuous exerciſes.</p>
+                  <p>
+                     <q>O my God, thou haſt commanded me to love thee with an entire, pure, and ſincere Heart. Give me (I beſeech thee) what thou commandeſt, by creating in me a clean Heart, and renew<g ref="char:EOLhyphen"/>ing a right Spirit in my bowels;
+<pb n="70" facs="tcp:135133:54"/>that I may love thee with all my Soul, that my Will may be reſign'd to thine without any contradiction, with all my Mind and Memory, alwayes to think of thee; and with all my powers, that I may employ them in thy ſervice.</q>
+                  </p>
+                  <p>To perform all theſe things, I muſt ob<g ref="char:EOLhyphen"/>ſerve four things:
+<list>
+                        <item>Firſt, Seeing all I am and have, Body and Soul, ſpiritual and temporal bleſſings, I have from God; I muſt be alwayes mind<g ref="char:EOLhyphen"/>full of his benefits: Serve, honour, and thank him for all, love him above all; and, for him, my Neighbour.</item>
+                        <item>Secondly, I muſt conſider the excellency of God; And ſeeing he is infinitely greater than our Heart, though we ſerve him with all our Heart and powers of our Soul, yet are we defective and inſufficient, and muſt therefore think we never do enough.</item>
+                        <item>Thirdly, We muſt not ſuffer the world to uſurp the leaſt corner of our Heart, by diſordinate Love; for that were injurious to God; as was the placing of the Idol <hi>Dagon</hi> by the Ark. <hi>He is too covetous</hi> (ſaith Saint <hi>Jerom</hi>) <hi>whom God cannot ſa<g ref="char:EOLhyphen"/>tiate:</hi> And he <hi>loves God leſs then he ſhould do, who loves any thing beſides him,</hi> accord<g ref="char:EOLhyphen"/>ing to Saint <hi>Auguſtine</hi>'s opinion.</item>
+                        <pb n="71" facs="tcp:135133:54"/>
+                        <item>Fourthly, He that is in mortal ſin hath an impure Heart, and loves not God. Therefore to be clean of Heart, and there<g ref="char:EOLhyphen"/>by bleſſed, and by Grace in the way to ſee God; I muſt imitate the pure white Er<g ref="char:EOLhyphen"/>mine, (a little beaſt) which rather chooſeth to fall into the hands of the Hunter, than make an eſcape through a dirty place, and defile it ſelf.</item>
+                     </list>
+                  </p>
+                  <p>Me-thinks Chriſt our Saviour, ſtretch'd, and nail'd to the Croſs, reſembles a Croſs-bow, which while I behold, his Heart (darting forth fiery Arrows of Love) a clean and pure Heart ſeems like the White plac'd in the midſt of a Butt, at which it is aimed; upon which repreſentation, I ſhall here inſert a ſhort Deſcant I long ſince made in Verſe.</p>
+                  <q>
+                     <l>Tender Arms for our offence,</l>
+                     <l>Drawn and ſtretch'd with violence;</l>
+                     <l>Like a Bow-ſtring now I ſee,</l>
+                     <l>While upon the bloody Tree,</l>
+                     <l>Cruel nails both long and rough,</l>
+                     <l>Sacred Hands are piercing through.</l>
+                     <l>Thus while tender Arms extend,</l>
+                     <l>The ſtring's faſtned at each end:</l>
+                     <l>
+                        <hi>Jeſus</hi> Heart is like the Nutt</l>
+                     <l>Of the Croſs-bow, where are put</l>
+                     <l>Nimble ſhafts with vigour ſent,</l>
+                     <pb n="72" facs="tcp:135133:55"/>
+                     <l>Thus the Bow ſtands ready bent.</l>
+                     <l>Sinners (then) prepare your Hearts,</l>
+                     <l>From this bow flie wounding darts.</l>
+                     <l>Stand his Butt, th' Arrows glow,</l>
+                     <l>As th' are flying from this bow;</l>
+                     <l>Midſt the Butt, (to place the White)</l>
+                     <l>Stand his mark and let him ſmite.</l>
+                     <l>Let him pierce and wound thy Heart,</l>
+                     <l>With his torments, pain, and ſmart,</l>
+                     <l>Shafts of ſorrow, grief, and pain,</l>
+                     <l>For thy ſins return again.</l>
+                     <l>So thy Soul being cleans'd from ſin,</l>
+                     <l>And by Grace made pure within,</l>
+                     <l>Stand Chriſt's Butt, that, (when contrite)</l>
+                     <l>A clean Heart may be the White.</l>
+                  </q>
+                  <p>Such is a Heart diſengaged and diſenter<g ref="char:EOLhyphen"/>eſſed from all inordinate deſires that may ſoil or ſtreighten that habitacle deſign'd and reſign'd to God. In ſuch an abſolute manner is this to be imagin'd, that one may confidently ſay with King <hi>David, Tuus ſum ego,</hi> Lord, I am totally thine, not mine own, nor the worlds, nor of the fleſh, nor of ſin; but entirely thine, by a full reſignation, ſubmiſſion, and oblation of my ſelf. To thee I dedicate an entire Heart, with all my ſenſes and cogitations, all my words and works; And reſtore un<g ref="char:EOLhyphen"/>to thee what I had from thee, a Soul
+<pb n="73" facs="tcp:135133:55"/>waſht and purified by Baptiſm, and a Heart contrite with Grief, and cleans'd a<g ref="char:EOLhyphen"/>gain by true Repentance; Yet ſtill again and again to be waſh'd, and more and more purified.</p>
+                  <p>If by the leaſt mote the corporal Eye be obſcur'd, much more that of the Soul. If I never ceaſe till I have cleans'd and clear'd the one, that I may have a per<g ref="char:EOLhyphen"/>fect ſight of each object which occurrs, ſhall I not alwayes be cleanſing and purify<g ref="char:EOLhyphen"/>ing that inward Eye which is capable (when clear) of the ſight of God?</p>
+               </div>
+            </div>
+            <div n="7" type="beatitude">
+               <pb n="74" facs="tcp:135133:56"/>
+               <head>
+                  <hi>The Seventh BEATITUDE.</hi> Bleſſed are the Peace-makers, for they ſhall be called the Children of God.</head>
+               <figure>
+                  <head>EMBLEME VII. <hi>The</hi> Wood-Bind.</head>
+                  <head>Pacis conjunctio firma.</head>
+                  <l>
+                     <hi>Thus, while two foſter deadly hate,</hi>
+                  </l>
+                  <l>
+                     <hi>A third ſteps in to end debate;</hi>
+                  </l>
+                  <l>
+                     <hi>Makes Peace, unites both Hearts and Hands,</hi>
+                  </l>
+                  <l>
+                     <hi>How bleſt is he who makes ſuch bands!</hi>
+                  </l>
+               </figure>
+               <pb n="75" facs="tcp:135133:56"/>
+               <p>
+                  <hi>TO make a better comprehenſion of this</hi> Beatitude, <hi>the Devout Chriſtian is to imagine, that he ſees two limber Stands, or young ſhoots, hardly able to ſupport themſelves on their tender roots, and in perpetual agitation, by reaſon of the vio<g ref="char:EOLhyphen"/>lence of the wind, which cauſes them to aſ<g ref="char:EOLhyphen"/>ſault and injure each other; till the Peace<g ref="char:EOLhyphen"/>making</hi> Wood-Bind, <hi>gently twining it ſelf about them, takes away that oppoſition, and diſpoſes them to a certain reconciliation and friendſhip.</hi>
+               </p>
+               <p>According to this repreſentation, the <hi>Wood-Bind</hi> (which bears the Honey-Suckle, a name derived from ſweetneſs) may well be the Emblem of the bleſſed Peace-maker, who, by the ſweetneſs of his Couverſati<g ref="char:EOLhyphen"/>on, and Amicable Interpoſure in the Dif<g ref="char:EOLhyphen"/>ferences of his Neighbours, endeavours to reconcile them.</p>
+               <p>In the <hi>Latine</hi> Tongue, the <hi>Wood-Bind</hi> is called, <hi>Mater Sylvae,</hi> viz. <hi>The Mother of the Woods.</hi> And peradventure it is for this reaſon; That, as a loving and indulgent Mother huggs and embraces her Child, ſo this Plant claſps and twines it ſelf about every other Tree that it can faſten on: In like manner, is it the endeavour of the
+<pb n="76" facs="tcp:135133:57"/>bleſſed Peace-maker to diſpoſe all thoſe, between whom he heareth there are any differences, to Unity, Peace, and Con<g ref="char:EOLhyphen"/>cord; making all other intereſts and con<g ref="char:EOLhyphen"/>cernments ſubſervient to that grand one of bringing all things to compoſure and quiet. And this is that whereto the Apo<g ref="char:EOLhyphen"/>ſtle, writing to the <hi>Epheſians,</hi> exhorts them, <hi>viz.</hi> to <hi>walk with all lowlineſs and meekneſs, long-ſuffering, and forbearing one another in love, endeavouring to keep the unity of the Spirit in the bond of Peace.</hi> For Peace is the Hand-maid of Charity, whoſe property it is to unite, and take away all animoſities, jealouſies, diſtruſts, and heart-burnings.</p>
+               <p>Juſtly therefore hath our Bleſſed Savi<g ref="char:EOLhyphen"/>our pronounc'd him <hi>Bleſſed,</hi> and <hi>the Child of God,</hi> who, like the Hony-Suckle, by a ſweet inſinuation and affability, endea<g ref="char:EOLhyphen"/>vours to compoſe the Minds of the liti<g ref="char:EOLhyphen"/>gious; and like the Wood-Bind, is as rea<g ref="char:EOLhyphen"/>dy to unite the contentious and diſſatisfi'd into Amity, as he is to make Peace within himſelf, as in Charity he is bound. And to this is it that the Apoſtle exhorts us, when he ſayes, <hi>Have Peace, and the God of Peace and Love will be with you.</hi>
+               </p>
+               <p>But how comes it that the Peace-maker hath this particular prerogative and ad<g ref="char:EOLhyphen"/>vantage,
+<pb n="77" facs="tcp:135133:57"/>to be called the <hi>Child of God?</hi> We may imagine it proceeds hence; that as God our Father is the God of Peace, ſo we may pretend to the title of his Chil<g ref="char:EOLhyphen"/>dren, if we are like him, and look on it as our concernment to make Peace between Men. We may alſo upon this further con<g ref="char:EOLhyphen"/>ſideration, be called the Children of God, that he who came into the world to recon<g ref="char:EOLhyphen"/>cile it, and to bring us that <hi>Peace which paſſeth all underſtanding,</hi> hath vouchſafed to call us Brethren. Nay, that great Sa<g ref="char:EOLhyphen"/>viour, and Peace, may ſeem to have their birth at the ſame inſtant; for then was it, that there was a Proclamation made by Celeſtial Heralds, to wit, the Angels, that <hi>Peace</hi> ſhould be <hi>on Earth,</hi> and <hi>good will to<g ref="char:EOLhyphen"/>wards Men.</hi> Then, like the chearful break of day, appear'd that beauteous Peace, fore-told by the Prophet <hi>Eſay,</hi> whereof there ſhould <hi>be no end:</hi> inaſmuch as it came with that <hi>Son,</hi> whoſe other titles are clos'd with this, that he was to be the <hi>Prince of Peace.</hi>
+               </p>
+               <p>It is no other then our Bleſſed Saviour Chriſt himſelf, who is the great Peace<g ref="char:EOLhyphen"/>maker, and came like the <hi>Wood-Bind</hi> to unite a pair of ſhoots, as I may term them, to wit, <hi>Juſtice</hi> and <hi>Mercy,</hi> which were oppoſite, while the wrath of God, like a
+<pb n="78" facs="tcp:135133:58"/>violent wind, incited Juſtice to Revenge, which Mercy oppos'd. What a conflict was between theſe two, till our Lord on the Croſs, like a <hi>Wood-Bind,</hi> united them in one? As <hi>David</hi> (by a prophetique ſpi<g ref="char:EOLhyphen"/>rit) ſaid, <hi>Mercy and Truth</hi> (that is to ſay Juſtice) <hi>have met together; Juſtice and Peace</hi> (or Mercy) <hi>have kiſſed each other;</hi> like two branching ſhoots, ſurrounded by a <hi>Wood-Bind,</hi> which onely Chriſt could do, the great Peace-maker and Son of God, who fully pacified Juſtice, by ſuffering death for Man; by which redeem'd, Mercy likewiſe had her deſire, embrac'd with Juſtice, then pacified, when ſhe beheld from Heaven our ſins ſeverely puniſh'd in Chriſt.</p>
+               <p>Never could Man have fully conceiv'd the wrath and hate of God againſt ſin, had he not expiated the ſame by the death of his onely begotten Son. Nor could we have apprehended his infinite Mercy, had he not given this his onely Son for our Redemption.</p>
+               <p>Behold his Hands nailed, and thereby know, how the Hand of Juſtice being faſt<g ref="char:EOLhyphen"/>ned, Mercy and ſhe embrac'd, and kiſſing were united by Chriſt, our <hi>Wood-Bind,</hi> whoſe deſign was to make our Peace, ſay<g ref="char:EOLhyphen"/>ing, <hi>I leave you my Peace, I give you my
+<pb n="79" facs="tcp:135133:58"/>Peace, not as the world gives, I give you Peace.</hi> For the world charmes and en<g ref="char:EOLhyphen"/>chants a Soul ſlumbering in the conceipt of a ſweet repoſe, even when ſhe is amidſt the harſh diſcords of impiety, yet hears them not, nor ſees her preſent danger: Which made <hi>David</hi> cry out: <hi>Englighten mine Eyes, (O Lord) that they may not at any time ſleep in death.</hi>
+               </p>
+               <div type="considerations">
+                  <head>CONSIDERATIONS ON THE VII. BEATITUDE.</head>
+                  <head>On Chriſt's Hands pierc'd with nails.</head>
+                  <p>FRom his Heart, aſcend to his Hands tran fixt with Nails, that he might thereby faſten and ſtay the Hand of Juſtice, (ready to chaſtiſe us for our ſins) while he himſelf ſuffered in his Body, what our enormous crimes deſerv'd.</p>
+                  <p>Imagine you ſee a King enrag'd againſt his Vaſſal, for ſome heinous offence, with
+<pb n="80" facs="tcp:135133:59"/>his ſword brandiſh'd and ready to kill him: Which the Prince, his Son, ſeeing, (notwithſtanding the injury as neere con<g ref="char:EOLhyphen"/>cern'd himſelf) comes in; and, to ſave the Delinquent, receives the thruſt in his own Body, pacifies his Father, begs his pardon, and reſtores the Criminal to the King's gracious Favour. How infinitely oblig'd (you will ſay) was this Subject to the Prince!</p>
+                  <p>Thus did God the Son (incarnate) in<g ref="char:EOLhyphen"/>terpoſe himſelf betwixt his Father and ſinful Man; And on the Croſs wounded by the Hand of Juſtice for our manifold iniquities, pacified his Heavenly Father, and thereby was our Peace-maker.</p>
+                  <p>Conſider now if this Subject, reconciled to the King, ſhould by the Princes means be made a Vice-Roy of ſome petty King<g ref="char:EOLhyphen"/>dom, with charge given him to govern, and preſerve Peace with Subordination to his Majeſty; Notwithſtanding, ſhould this Vice-Roy (forgetting all favours and former Clemency) rebelliouſly conſpire againſt both King and Prince, What pu<g ref="char:EOLhyphen"/>niſhment would you think too great for ſuch a Traytor?</p>
+                  <p>Is not every Man a kind of Vice-Roy to manage a petty Kingdom, which is within him? What, his Paſſions? Are they not
+<pb n="81" facs="tcp:135133:59"/>(at leaſt ſhould be) his Subjects? To<g ref="char:EOLhyphen"/>gether with his Appetites and Concupiſ<g ref="char:EOLhyphen"/>cences, which rebell againſt Reaſon. And as often as Man ſins mortally, is he not guilty of High Treaſon againſt the Majeſty of God, his Dread Sovereign? Who be<g ref="char:EOLhyphen"/>ing every way infinite, it follows, the pu<g ref="char:EOLhyphen"/>niſhment due is infinite.</p>
+                  <p>Hence I will conceive a great hatred and deteſtation againſt ſin and ingratitude to the great Peace-maker, my King and Sa<g ref="char:EOLhyphen"/>viour: under whom, as a Vice-Roy, I muſt govern and be a Peace-maker.</p>
+                  <p>And that I may the better preſerve Peace with<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n me, I will ſet a Guard over my out<g ref="char:EOLhyphen"/>ward Senſes; over mines Eyes, that they may not behold vain and curious imperti<g ref="char:EOLhyphen"/>nencies; nor curiouſly prie and ſearch in<g ref="char:EOLhyphen"/>to other Mens Actions. Over my Tongue, that it may not intrench upon my Neigh<g ref="char:EOLhyphen"/>bours Reputation. Over mine Ears, ſhut<g ref="char:EOLhyphen"/>ting them againſt Detractors, <hi>&amp;c.</hi> Thus being outwardly guarded, I may the bet<g ref="char:EOLhyphen"/>ter preſerve inward Peace, by ſuppreſſing inordinate thoughts and deſires. In ſuch ſort, that having within me a peaceful Kingdom, ſubordinate to Reaſon, God may quietly inhabit in my Soul, whoſe place (as <hi>David</hi> ſaith) and reſidence is in a peaceful Heart, not diſturbed with
+<pb n="82" facs="tcp:135133:60"/>worldly cares, nor embroyled with the Paſſions of fear and wrath, which or<g ref="char:EOLhyphen"/>dinarily raiſe a tumult in our little King<g ref="char:EOLhyphen"/>dom.</p>
+                  <p>But to be a perfect Peace-maker indeed, one ſhould be ſo totally united to God in his affections, as not to deſire any thing with out him, and onely repoſe in him the one<g ref="char:EOLhyphen"/>ly centre and ſupport of the Soul. And remember what Saint <hi>Auguſtine</hi> ſayes,</p>
+                  <q>
+                     <p>That they are Peace-makers in them<g ref="char:EOLhyphen"/>ſelves and for themſelves, who ſubject all the tumultuous motions of the Soul to Reaſon, that is, to the Mind and Spirit. For, by ſubduing and ſuppreſ<g ref="char:EOLhyphen"/>ſing carnal Concupiſcences, they become the Kingdom of Heaven on Earth. Where, being Peace-Makers, they are likewiſe the Children of God, and re<g ref="char:EOLhyphen"/>ſemble their Heavenly Father, to whom it is proper to enjoy himſelf, who is Peace and tranquillity it ſelf, extending from end to end ſtrongly, and diſpoſing all things ſweetly.</p>
+                     <p>O my ſoul, thou feeſt what thou ſhouldſt be; Now conſider what thou art. How ſoon is the little Kingdom within thee diſturb'd! How ſuddenly anger diſquiets it! What perturbations of mind are caus'd, when but a lighter
+<pb n="83" facs="tcp:135133:60"/>croſs or ſlight affliction lights upon thee. Yea even an unkind word from a friend breeds a great diſcontent and trouble within thee. And when all ſucceeds not according to thy expectation, thou art ſo far from being a peace-maker, that, diſtracted in thy thoughts, thou art vex'd and perplex'd within thy ſelf. How then art thou the Child of God, in whom he deſires to repoſe? Art thou not rather like a whining Babe that for every trifle is crying, and thereby diſ<g ref="char:EOLhyphen"/>quieting the whole houſe.</p>
+                     <p>O bleſſed Saviour, though I dayly ſay, <hi>Thy Kingdom come,</hi> I am yet like that <hi>Regulus,</hi> that little King; little in the knowledg of my ſelf, and, like his Son, I lye infirm and weak, and ſubject to my diſordinate paſſions. I can do all in thee, who ſtrengthen'ſt me. Enable me (therefore) I beſeech thee by thy powerful grace, that thy Kingdom may come, that thou mayſt reign in me, and over me, the true <hi>Solomon,</hi> and peaceful King; that I, with all the powers of my ſoul, may reſt in peace, and be wholly reſign'd to thy will.</p>
+                     <p>Therefore I daily ſay, <hi>Thy will be done.</hi> What is it (then) can diſturb my peace of mind? If affliction, if ſickneſs, or whatever
+<pb n="84" facs="tcp:135133:61"/>elſe hapneth, be according to thy will or permiſſion, it muſt be done. Nay I dai<g ref="char:EOLhyphen"/>ly pray, it may be done. And, ſhould I otherwiſe deſire; yet, if it be thy holy will and pleaſure, it muſt be ſo. Why then ſhould not I be a peace-maker, and qualifie all paſſions and diſordinate de<g ref="char:EOLhyphen"/>ſires? which when I have perform'd in<g ref="char:EOLhyphen"/>ternally, I may (and not before) make peace amongſt others externally.</p>
+                     <p>O Jeſu! it was the Will of thy Fa<g ref="char:EOLhyphen"/>ther which thou didſt punctually ob<g ref="char:EOLhyphen"/>ſerve. And that which thou didſt teach was humility in converſation, ſtability in faith, modeſty in words, juſtice in deeds, mercy in works, diſcipline in manners, and not to do, but to ſuffer injuries. This is to be a peace-maker, and the Child of God. This is the peace proclaim'd by the Angels at thy birth<g ref="char:EOLhyphen"/>day. This is the peace thou didſt leave us, and with this peace we deſire to de<g ref="char:EOLhyphen"/>part, and reſt in thee, that our peace, and Kingdom begun here by grace, may by thee be perfected in glory. <hi>Amen.</hi>
+                     </p>
+                  </q>
+                  <p>O what a happineſs it will be, in the laſt ſlumbers of a dying life, to ſay, with the Prophet <hi>David, In peace will I ſleep and reſt,</hi> becauſe thou (O Lord) haſt ſingularly put me in hope, to ſee an accompliſhment of
+<pb n="85" facs="tcp:135133:61"/>that peace which a ſoul enjoys, or ſhould enjoy, on earth: Which to acquire, a man ſhould imitate the Prophet <hi>David,</hi> who ſware and vowed to the mighty God of <hi>Jacob,</hi> that <hi>he would not enter into the Ta<g ref="char:EOLhyphen"/>bernacle of his houſe, nor go to his bed, nor give ſleep to his eyes, nor ſlumbers to his eye<g ref="char:EOLhyphen"/>lids, untill he had found out a place for the Lord, an habitation for the mighty God of Jacob:</hi> So great was his deſire to build a Temple! And as great ſhould be my care and ſollicitude to build, at leaſt, prepare a place of repoſe for my Lord, which muſt be in a quiet and peaceful conſcience, with<g ref="char:EOLhyphen"/>out which, who can give ſleep to his eyes, or ſlumber to his eye-lids?</p>
+                  <p>O my ſoul, when ſhalt thou be ſo hap<g ref="char:EOLhyphen"/>py, as to ſay, with that peaceful King <hi>So<g ref="char:EOLhyphen"/>lomon, Ariſe, O Lord, into thy reſt, thou and the Ark of thy ſtrength?</hi> Where is that repoſe of mind? Where that tranquillity of conſcience, to which thou ſhouldſt in<g ref="char:EOLhyphen"/>vite him to ariſe and come into his reſt, he and the Ark of his ſtrength, which is his powerful grace, whereby enabled thou mayſt ſilence and pacifie thy mutinous thoughts that riſe up againſt thee, to di<g ref="char:EOLhyphen"/>ſturb thy peace.</p>
+                  <p>Here I will ſeem to behold the Kine yoked, drawing the Ark toward <hi>Bethſames,</hi>
+                     <pb n="86" facs="tcp:135133:62"/>while their Calves ſhut up were bleating. To which they, as it were, ſhut their ears, and went on, not declining to the right hand, nor to the left. Thus muſt he do that bears the Ark of ſtrength. What are our bru<g ref="char:EOLhyphen"/>tiſh appetites? what diſordinate concupi<g ref="char:EOLhyphen"/>ſcence? what avaricious deſires? what are injuries that call upon us for revenge, but calves, that would be ſuckled and pam<g ref="char:EOLhyphen"/>pered? Theſe are they that diſturb our peace; theſe, that are ſo obſtreperous, as to diſquiet the ſoul, never ceaſing to allure her to return, with loſs of that peace and reſt which is acquired by bearing the Ark of ſtrength, and ſanctification, which is the peace of God, that overcomes all ſenſe, fortifies the heart in ſuch ſort, that it re<g ref="char:EOLhyphen"/>ſents not injuries and temporal loſſes, or at leaſt bears all with ſuch patience, as if it were inſenſible.</p>
+                  <p>Such a heart may be both Altar and Sa<g ref="char:EOLhyphen"/>crifice, reſembling the Pacifique oblation in the old Law, which was an Ox, or a Sheep, or Goat, being a figure of a triple peace, with God, our Neighbour, and our ſelf. With God, who by our ſubmiſſi<g ref="char:EOLhyphen"/>on and hearty contrition is inſtantly paci<g ref="char:EOLhyphen"/>fied. With our Neighbour (reſembled by the Sheep) who (when good) is ſoon ap<g ref="char:EOLhyphen"/>peas'd, if bad, (figured by the Goat) when
+<pb n="87" facs="tcp:135133:62"/>mov'd and exaſperated continues a long time as remote from peace and charity, as the Goat leaving the fertile Valleys, to climb and graze on barren rocks.</p>
+                  <p>But when Man is ſuch to himſelf, ſtill in motion, unquiet, anxious, timorous, and penſive, what is he but a Goat skipping to and fro, from a barren rock of diſtaſte to a precipice of deſolation?</p>
+                  <p>
+                     <q>O my God and merciful Saviour, thou art my rock, my ſafety, my peace, and only refuge. From thee proceeds the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, from whom ſprings the fruit of Charity, Joy, and Peace. Send forth, I beſeech thee, thy holy Spirit; and theſe three ſhall be created, and eſtabliſhed in my ſoul. Charity, to love, and have peace with thee, and with my Neighbour for thee; Joy, and alacrity in ſerving thee; and Peace in thee the rock, and ſupport of my heart, my God for ever, in heavenly <hi>Jeruſalem</hi> the viſion of peace; where to ſee thee, is to enjoy eternal tranquillity, which thou (O Lord) haſt purchaſed with thy moſt per<g ref="char:EOLhyphen"/>cious blood. <hi>Amen.</hi>
+                     </q>
+                  </p>
+               </div>
+            </div>
+            <div n="8" type="beatitude">
+               <pb n="88" facs="tcp:135133:63"/>
+               <head>
+                  <hi>The Eighth BEATITUDE</hi> Bleſſed are they that ſuffer perſecution for righteouſneſs ſake, for theirs is the Kingdom of Heaven.</head>
+               <figure>
+                  <head>EMBLEME VIII. <hi>The</hi> Vine.</head>
+                  <head>Sterilis niſi falce putetur. <hi>8</hi>
+                  </head>
+                  <l>
+                     <hi>So, prun'd, a Chriſtian brings encreaſe.</hi>
+                  </l>
+                  <l>
+                     <hi>To branch too far, were to ſurceaſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Grow barren, when unprun'd. What harm</hi>
+                  </l>
+                  <l>
+                     <hi>(Impair'd) to ſpread a larger arm?</hi>
+                  </l>
+               </figure>
+               <pb n="89" facs="tcp:135133:63"/>
+               <p>
+                  <hi>THe Catholick Church, in divers places of Scripture, is called the Vineyard of our Lord; where eve<g ref="char:EOLhyphen"/>ry good Chriſtian is a flouriſhing and fruitful Vine. And if any Plant or Tree cut or lopt may he ſaid to ſuffer perſecution, much more may the Vine (the Emblem of a Chriſtian). For as the one is prun'd in</hi> February, <hi>a cold and bluſtring Moneth, not impair'd thereby, but enrich'd both in branch and fruit; So is the other in a time as rigorous, when he ſuf<g ref="char:EOLhyphen"/>fers perſecution for righteouſneſs ſake.</hi>
+               </p>
+               <p>Let the Vine dilate it ſelf from year to year in branches, without pruning, how ſoon does it become barren? Such would a man be that never ſuffers loſs of goods, nor feels any grievance or affliction, neither in body (by ſickneſs) nor in worldly ſub<g ref="char:EOLhyphen"/>ſtance, by perſecution or otherwiſe.</p>
+               <p>For, ſeeing it is certain, that all, who will live piouſly in Chriſt Jeſus, muſt ſuffer perſecution (as S. <hi>Paul</hi> aſſures us) it fol<g ref="char:EOLhyphen"/>lows, that they, who, like a Vine, are ne<g ref="char:EOLhyphen"/>ver pruned in their branching eſtate, nor otherwiſe afflicted, can hardly be numbred amongſt the vertuous, and devouter ſer<g ref="char:EOLhyphen"/>vants of God.</p>
+               <p>When I behold a Vine in a ſunny place pruned, and deſpoil'd of its branches, and
+<pb n="90" facs="tcp:135133:64"/>the reſidue ſupported and orderly nail'd, and fix'd to a wall, it preſents unto me a man perſecuted and depriv'd of branching ſuperfluities, yea, and liberty, whereby he becomes (like a Vine) more fruitful, not wanting the Sun-ſhine of heavenly grace, to render him as plentiful in Merits, as the other in Grapes.</p>
+               <p>Now if the Vine, to ſecure it ſelf, ex<g ref="char:EOLhyphen"/>tend here and there a winding tendrel that claſps about the neighbouring boughs, a devout Chriſtian wants not the like, while, for his ſupport, and conſtant perſeverance, he produceth (like ſo many tendrels) ſeve<g ref="char:EOLhyphen"/>ral acts of Faith, Hope, and Charity.</p>
+               <p>All which claſp and wind about the Croſs, whereon Chriſt crucified is the Vine of vines. Naked like a Vine in the fall of the leaf, and prun'd in <hi>February.</hi> Wounded, like a Vine bleeding, and, in Vintage, like Grapes in the Wine-preſs: like a Vine, with branches extended and fix'd to a wall, with his Arms and Feet ſtretch'd forth, and nail'd to the Croſs; where he lay expos'd to the ſcorching beams of moſt ſevere juſtice.</p>
+               <p>And when I obſerve the many riffs and chincks in the trunck of the Vine, out of which iſſue the branches, I ſeem to behold my Saviours body full of wounds, out
+<pb n="91" facs="tcp:135133:64"/>of which iſſued forth his moſt precious blood.</p>
+               <p>But if the Vine have tendrels, to twiſt and wind about what bough or branch ſo<g ref="char:EOLhyphen"/>ever is neighbouring by, what tendrels had our Saviour, but rough and ſharp nails? what ſupport? what to lay hold on, when he cried out, <hi>My God, my God, why haſt thou forſaken me?</hi> Ah Sinner! it was want of will and deſire in thee to ſuffer with him, that made him complain in this manner. This he foreſeeing (notwithſtanding all he had ſuffered) was cauſe of this heavy and ſad complaint; as if he had ſaid; Father, why haſt thou forſaken me ſo ſoon? If it be thy will, I deſire to live and ſuffer more pains, more injuries, &amp; reproaches for man, who to requite me for all I have endured, will (I foreſee) repine at the leaſt oppreſſi<g ref="char:EOLhyphen"/>on, and be dejected with the leaſt croſs and affliction, which he undergoes for my ſake: Why haſt thou forſaken me ſo ſoon? yet I deſire to ſurvive, and ſuffer more, the more to attract and incite the hearts of men, to love and ſuffer with me, as branches united to me, the Vine, that being pruned by ſuffering with me, they may become fruitful and be glorified with me.</p>
+               <div type="considerations">
+                  <pb n="92" facs="tcp:135133:65"/>
+                  <head>CONSIDERATIONS ON THE VIII. BEATITUDE.</head>
+                  <head>On the wounded Feet of our Bleſſed Saviour.</head>
+                  <p>LAſtly, from our Bleſſed Saviour's ſa<g ref="char:EOLhyphen"/>cred Hands, deſcend to his wounded Feet, and there reade, <hi>Bleſſed are they who ſuffer perſecution,</hi> &amp;c. Which properly belongs to the Feet, either to fly, as our Lord advis'd, from one City to another, or to ſtay and ſuffer, as he himſelf did, till his hour was come. Wherefore, when any affliction or croſs hapneth unto thee, be aſſured that thy hour is come for thee to ſuffer perſecution, and conſequently to be bleſſed, if thou bear it with patience.</p>
+                  <p>Now ſince it is decreed, and recorded in holy Writ, that <hi>all who will live piouſly in Chriſt Jeſus muſt ſuffer perſecution,</hi> one way, or other, Conſider in particular what tribulations thou heretofore haſt, or now doſt ſuffer; which, were they far greater then they are, or have been, yet
+<pb n="93" facs="tcp:135133:65"/>thou mayſt ſay, with the Apoſtle, <hi>The paſ<g ref="char:EOLhyphen"/>ſions and ſufferings of this time are not wor<g ref="char:EOLhyphen"/>thy of the future glory which ſhall be re<g ref="char:EOLhyphen"/>vealed in us.</hi> And therefore we ought to be willing and ready to ſuffer more for his ſake, who, for us, ſuffered ſo much perſe<g ref="char:EOLhyphen"/>cution.</p>
+                  <p>Conſider that in the end of this laſt Beatitude, our Saviour intimates a triple perſecution, proceeding from the Heart, Word, and Deed. You are <hi>Bleſſed</hi> (ſaith he) <hi>when men ſhall revile you and perſecute you, and ſpeak all manner of evil againſt you, or perſecute you by caſting you out of the Syna<g ref="char:EOLhyphen"/>gogue,</hi> &amp;c.</p>
+                  <p>Againſt theſe three ſorts of perſecutions a triple patience is neceſſary. The firſt, to forgive them that hate me; The ſecond, to compaſſionate and pity them that revile me; The third, to pray for them that perſecute me by any corporal or temporal affliction.</p>
+                  <p>The better to put this in practiſe, often call to mind our Saviours perſecutions on the Croſs, which began in the hearts of the Jews for whom notwithſtanding he pray'd, <hi>Father forgive them.</hi> Next it was expreſſed by word in Blaſphemies, whom neverthe<g ref="char:EOLhyphen"/>leſs he pitied, ſaying, <hi>For they know not what they do.</hi> Thirdly, his manifold per<g ref="char:EOLhyphen"/>ſecutions
+<pb n="94" facs="tcp:135133:66"/>caus'd by the Jews, were made too apparent by the many wounds they in<g ref="char:EOLhyphen"/>flicted, and ignominious death they put him to; All which notwithſtanding, his firſt care on the croſs was to pray for them.</p>
+                  <p>Conſider what King <hi>David</hi> ſaith, <hi>Thy rod and thy ſtaff</hi> (O God) <hi>have comforted me:</hi> That is, the Rod of affliction and perſecution, which (that we may patient<g ref="char:EOLhyphen"/>ly bear it) is accompanied with a ſtaff, to wit, his all-ſtrengthning grace, to ſup<g ref="char:EOLhyphen"/>port and bear us up, that we may go on with alacrity.</p>
+                  <p>Here be confounded; for that, in light ſufferings and ſlighter afflictions thou haſt been diſmaid, and dejected, though this ſtaff were not wanting to ſupport thee. And ſo out of heart, that thou haſt deſired to be freed from them, before thou hadſt taſted the leaſt drop of Chriſt's bitter cup. Whereby in ſuffering with him, thou mighteſt have taſted and ſeen how ſweet our Lord is in his conſolations, to them who ſuffer perſecution.</p>
+                  <p>Call to mind what God ſaith by his Prophet <hi>Zachary,</hi> Chap. 11. ver. 7. <hi>And I took unto me two ſtaves; one I called Beauty, and the other I called Bands, and I fed the flock.</hi> All Chriſtians are his flock, and have all ſtraid. If, to recall, or try us, he
+<pb n="95" facs="tcp:135133:66"/>with his rod chaſtiſe us, or ſuffer us to be perſecuted to refine and purifie us from the droſs of ſin, it is in our power (aſſiſted by his heavenly grace) to bear all with pati<g ref="char:EOLhyphen"/>ence; which if we do perform, the rod of chaſtiſement is called <hi>Beautie,</hi> becauſe it beautifie and purifies our ſouls. But if we murmur and repine at every croſs and affli<g ref="char:EOLhyphen"/>ction, that falls upon us, and think we de<g ref="char:EOLhyphen"/>ſerve not to be puniſh'd; the other rod is ealled <hi>Bands,</hi> wherewith we are faſter tied, and more and more entangled in our ſins.</p>
+                  <p>O my ſoul, why droopeſt thou! Chriſt ſuffered for thee, leaving thee an example, that thou mayſt follow his ſteps. It a little wind of perſecution penetrate thy tender heart, remember where thou art, where thou ſaileſt, what thy veſſel is. In a ſtor<g ref="char:EOLhyphen"/>my and dangerous Sea, where winds blu<g ref="char:EOLhyphen"/>ſter, ſurges riſe, both within, and with<g ref="char:EOLhyphen"/>out; paſſions and perſecutions which di<g ref="char:EOLhyphen"/>ſturb the craſie Ship thy Body, and as much afflict thy Soul the Paſſenger.</p>
+                  <p>Thou art traduc'd or derided. 'Tis a wind: Anger is the billow and thou art in danger. Thou prepareſt to render ſcoff for ſcoff, malediction for malediction, and one revenge for another. Now thou art in danger of ſhipwrack.</p>
+                  <pb n="96" facs="tcp:135133:67"/>
+                  <p>Chriſt in the Ship (thy Heart) is aſleep; awake him, and he will relieve thee, and keep it from ſinking. Thy Lord hears and patiently ſuffers, yet thou his ſervant art angry; Thou muſt ſuffer with me, if thou wilt reign with me: <hi>The kingdom of heaven ſuffereth violence, and the violent take it by force.</hi>
+                  </p>
+                  <p>
+                     <hi>The body of Chriſt, that is to ſay, his Church,</hi> ſaith S. <hi>Auguſtine, is detain'd in the wine-preſs of perſecutions and oppreſſions. But in this wine-preſs affliction is beneficial. While the Grape is on the Vine, it ſuffers not, it appears ſound and whole, nothing then di<g ref="char:EOLhyphen"/>ſtills from it, untill it be put into the preſs, and there cruſh'd and trampled on. This might ſeem injurious to the grape but not without benefit. Nay, were it not thus hand<g ref="char:EOLhyphen"/>led, it would remain but to it ſelf barren and grateful to none.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="recapitulation">
+               <pb n="97" facs="tcp:135133:67"/>
+               <head>A SHORT RECAPITULATION OF THE VIII. BEATITUDES, By way of MEDITATION.</head>
+               <p>O Bleſſed Saviour, thou haſt left for us a Ladder of eight ſteps, to aſcend to Heaven. If by thy aſſiſting grace I aſcend but to the firſt ſtep, mine is the Kingdom of Heaven; and being arrived at the higheſt ſtep, by ſuffering perſecution for righteouſ<g ref="char:EOLhyphen"/>neſs ſake, I can aſceud no higher, I end where I began, for to ſuffer perſecution, is to be poor in ſpirit, ready, rather to loſe all, then deny thee, ready to be deprived of tranſitory things, then loſe the eternal.</p>
+               <list>
+                  <item>I. Thy <hi>Nakedneſs</hi> tells me thou wert <hi>poor in Spirit,</hi> and deſire; coveting nothing but me, and my Salvation: What then would I have on earth but thee?</item>
+                  <item>II. By thy <hi>Head inclined</hi> I underſtand
+<pb n="98" facs="tcp:135133:68"/>thou wert <hi>Meek,</hi> and humble, humbled even unto the death of the Croſs. So may I, aſſiſted by thy powerful grace, bear all afflictions with patience, and be angry with none but ſuch as ſeek to deprive me of thee, my God, and all things.</item>
+                  <item>III. On thine <hi>Eyes diſtilling tears,</hi> I read, <hi>Bleſſed are they that mourn.</hi> May I never mourn but for my ſins, nor grieve but for the loſs of thee.</item>
+                  <item>IV. On thy <hi>ſacred Mouth,</hi> crying out, <hi>I thirſt,</hi> I read, thou didſt <hi>hunger and thirſt.</hi> after righteouſneſs, that I might be juſtifi<g ref="char:EOLhyphen"/>ed by thy Death and Paſſion. Grant (ſweet Jeſu) I may ever hunger and thirſt after this.</item>
+                  <item>V. By thy <hi>wounded Side</hi> I find thou wert <hi>merciful,</hi> giving all thy precious blood for my redemption. May I be mer<g ref="char:EOLhyphen"/>ciful to thee in thine, that I may finally find mercy.</item>
+                  <item>VI. Let thy <hi>pierced Heart,</hi> moſt pure and exempt from all fin, teach me to pre<g ref="char:EOLhyphen"/>pare a <hi>pure</hi> and <hi>clean heart</hi> for thee.</item>
+                  <item>VII. By thy <hi>ſacred Hands</hi> nailed, I un<g ref="char:EOLhyphen"/>derſtand,
+<pb n="99" facs="tcp:135133:68"/>thou wert the grand <hi>Peace-maker</hi> Vouchſafe to infuſe into my ſoul true and perfect Charity, that I may have peace withall for thee, and during this life make my peace with thee.</item>
+                  <item>VIII. Laſtly, By thy <hi>Feet, pierced with nails,</hi> I read, <hi>they are bleſſed that ſuf<g ref="char:EOLhyphen"/>fer perſecution,</hi> which thou didſt, even unto the death of the Croſs. Grant me grace to ſuffer for thee, to bear afflictions patiently, that, with thee, I may reign. eternally. <hi>Amen.</hi>
+                  </item>
+               </list>
+               <p>O good Jeſu, to reign with thee is to ſuffer with thee. On the Croſs thou art ſurrounded with the eight Beatitudes. Here I muſt ſeek them exemplified in thy ſelf, on Mount <hi>Calvary,</hi> to find them perfect<g ref="char:EOLhyphen"/>ed on <hi>Mount-Sion,</hi> the heavenly <hi>Jeruſalem.</hi>
+               </p>
+               <p n="1">I. I behold the <hi>Cornel-tree,</hi> where, with<g ref="char:EOLhyphen"/>out leaves to ſhrowd it, the bloſſom lies naked, and expos'd to the bluſtring winds; And on the Tree of the Croſs, as <hi>naked</hi> I behold my Saviour, poor in Spirit, poor in Will and Deſire: as naked dying, as born, for us.</p>
+               <p>Uncloath thy ſelf then, O my ſoul, and be as naked in thine affections to the leafy vanities and riches of this life, which
+<pb n="100" facs="tcp:135133:69"/>is but a ſo journing for poor mortality.</p>
+               <p n="2">II. I ſee the arch'd <hi>Indian-Fig-tree,</hi> greedy to <hi>poſſeſs the Land</hi> with a thouſand ſhoots, which deſcend to take deep root in the earth. And on the Tree of the Croſs, I behold our Lord <hi>meekly bowing down his Head,</hi> humbled even to the death of the Croſs, to take poſſeſſion of the Land of the Living, for me an exile, by as many ſhoots, as ſighs, prayers, tears, and drops of blood, as he ſhed for me a loſt ſinner.</p>
+               <p>O my ſoul, where are thy humble ſhoots that ſhould deſcend, that they may aſcend to the Land of promiſe? where are thy ſubmiſſive thoughts that ſhould lowly bend to the earth, by acknowledgment of thy unworthineſs and ingratitude, to ſo good and merciful a Lord? Thou art now in poſſeſſion of a barren Land, thy body; where thou canſt not, nor muſt not, take deep root. Heaven is thy Land, this thy place of baniſhment. Thither let thy thoughts aſcend to be deeply rooted, by an eternal poſſeſſion.</p>
+               <p n="3">III. I view the <hi>Myrrhe-tree</hi> weeping drop after drop, but when prick'd and wounded, it more abundantly diſtills. Thus came I weeping and mourning into a
+<pb n="101" facs="tcp:135133:69"/>vale of tears, like a taper by the wind ſoon extinguiſh'd; like a ſpark in the Sea, as ſoon ſwallowed up; like a froth, ſuddenly vaniſhing; and a vapour, ſcatter'd in the air. Have I not then cauſe to weep, to prevent a future mourning, and acquire a happineſs and conſolation, which is pro<g ref="char:EOLhyphen"/>miſed to <hi>Mourners?</hi>
+               </p>
+               <p>Then I caſt mine eyes on Chriſt crucifi<g ref="char:EOLhyphen"/>ed, and weeping on the Croſs, why? for my ſins. Why like a <hi>Myrrhe-wee</hi> wound<g ref="char:EOLhyphen"/>ed over all his body, diſtilling blood? To give light to my glimmering taper, fire to my ſpark, ſubſtance to my frothy ſoul, and purer air to my dusky vapour.</p>
+               <p>Thirdly, I will ſummon my heart, and expoſtulate with my ſoul, why ſhe would be uſher'd by her eyes to the aſpect of vainer objects, yet never made uſe of them to bewail her ſins with tears? And if the <hi>Myrrhe tree</hi> ſtab'd or launc'd with a knife diſſolves it ſelf into tears, why doth ſhe not procure by her ſighs and prayers, that my heart, woulded with true compun<g ref="char:EOLhyphen"/>ction, may be liquified into tears of grief?</p>
+               <p n="4">IV. I ſeem to behold the <hi>Clove-tree</hi> hun<g ref="char:EOLhyphen"/>gring (as it were) and thirſting after the ſtrengthning moiſture of the earth, which
+<pb n="102" facs="tcp:135133:70"/>it continually attract; Then I ſeem to hear my Saviour cry out, <hi>I thirſt,</hi> to ex<g ref="char:EOLhyphen"/>preſs his ardent deſire of our Salvation. And then, O my ſoul, (ſay I) canſt thou hear thy Lord crying out, <hi>I thirſt,</hi> and yet preſent him with no other potion then a cup full of abſinth (thy ſins) which are more bitter to him then Vinegar and Gall; of which he taſting would not drink.</p>
+               <p>O my ſoul, taſte and ſee how ſweet our Lord is, who, to revive and refreſh thee (which wert like dry and barren earth) ſhowred down his precious blood, from his wounded body, veins, and heart, till it was totally exhauſted.</p>
+               <p>O what an exceſſive thirſt did this cauſe in thy Saviour! what a <hi>Conſummatum eſt</hi> was this? what bounty, when hereſerv'd not to himſelf ſo much as one drop of blood?</p>
+               <p>O my ſoul, if he gave thee all that was moſt precious, doubt not to ſay with his royal Prophet, <hi>What ſhall I give unto our Lord for all he hath given me?</hi> what leſs then an entire heart and ſoul, with all her powers, to love, honour, and ſerve him?</p>
+               <p n="5">V. Next I imagine I ſee the fruit of <hi>Adams Apple-tree</hi> cut in two, which pre<g ref="char:EOLhyphen"/>ſents us with a croſs, which bare the Savi<g ref="char:EOLhyphen"/>our
+<pb n="103" facs="tcp:135133:70"/>our of the World, in whom I behold as many croſſes, as ſtripes, and ſcourges, en<g ref="char:EOLhyphen"/>terlac'd in his tender fleſh.</p>
+               <p>It was the fruit of the forbidden Tree, wherein (being eaten) were included as many croſſes as miſeries, now incident to wretched man; As hunger, thirſt, cold, heat, infirmities, <hi>&amp;c.</hi> which render him miſerable, and conſequently to be pitied.</p>
+               <p>O my ſoul, commiſerate at leaſt thine own ſelf, encompaſſed with ſo many frail<g ref="char:EOLhyphen"/>ties, caſualties, and anxieties of mind. Turn which way thou wilt, thou canſt not be long exempted from one calamity or other</p>
+               <p>Wherefore, ſeeing to be <hi>Miſericors</hi> (that is to ſay, merciful) is to have an agrieved and pitiful heart, as it were, always bear<g ref="char:EOLhyphen"/>ing a croſs, let thine he dolor, ſorrow and compunction for thy ſins.</p>
+               <p n="6">VI. Imagine you behold the <hi>green Fig,</hi> pick'd, and pierc'd by a little Gnat or Fly, whence diſtills a drop, as it were, of hony. And then ſay, O my green, hard, and im<g ref="char:EOLhyphen"/>mature Heart, where is that compunction that is requiſite for thee? O that thou wert thus pierc'd and wounded with grief for thy fins; that ſweet delight, like a honey-drop, might iſſue forth: for while it reſides within
+<pb n="104" facs="tcp:135133:71"/>thee, thou canſt never come to maturity; for where ſin predominates, Grace muſt needs be an Exile.</p>
+               <p>Then reflect your Eye on our Saviour's Heart wounded with a Spear, and ſay, Lord, Were not thy larger wounds in thy Hands and Feet ſufficient pledges, and te<g ref="char:EOLhyphen"/>ſtimonies of thy exceſſive Love? Why then, after thy death, wouldſt thou receive ſo deep a wound in thy Heart?</p>
+               <p>Ah! If Death were ſtronger than Love in thee, when by him thou wert van<g ref="char:EOLhyphen"/>quiſht, he ſeizing by Heart, Love again, even after Death, was more powerful by opening that ſacred rift, whence iſſued the Sacraments, and where the Gate of Heaven is as it were opened to ſuch as truly re<g ref="char:EOLhyphen"/>pent.</p>
+               <p n="7">VII. Sometimes I reflect mine Eye on the <hi>Wood-Bind,</hi> which, whereſoever it grows, is alwayes binding, and uniting branch with branch, or winding round a<g ref="char:EOLhyphen"/>bout a Tree; to teach me, that Peace, Unity, Union, and Concord, are the ſpe<g ref="char:EOLhyphen"/>cial Objects at which I muſt aim, both in reſpect of God and my Neighbour. Love muſt be like a pair of <hi>Wood-Bind</hi> ſhoots, iſſuing from the ſame ſtock which lay hold of two neighbouring boughs or branches.
+<pb n="105" facs="tcp:135133:71"/>If by Love I unite my Heart and Soul to God, by Love I muſt likewiſe be united with my Neighbour. And, in like manner, if I have made my Peace with God, I muſt do the like with my Neighbour offended. For as I forgive, ſo I deſire to be forgiven: And conſequently, as I have Peace with my Neighbour, ſo I deſire God would be pacified: So ſhall I have inward Peace ac<g ref="char:EOLhyphen"/>companied with outward Charity and Love; like a Honey-Suckle odoriferous, that breath snothing but ſweetneſs.</p>
+               <p>Then I reflect on the <hi>Wood-Bind,</hi> Chriſt Jeſus on the Croſs, the grand Peace-maker, ſtretching forth his Arms, and pacifying his Father juſtly incens'd againſt Sinners. O what an amorous far-ſpreading <hi>Wood-Bind</hi> was our Lord! Stretching from end to end ſtrongly, by faſtning the Hands of Juſtice, and diſpoſing all things ſweetly; like a Honey-Suckle, breathing nothing but ſweetneſs of Peace, even for his great<g ref="char:EOLhyphen"/>eſt Enemies, crying out, <hi>Father, forgive them; for they know not what they do:</hi> And to the penitent Thief, <hi>This day thou ſhalt be with me in Paradiſe.</hi> As if he had ſaid, I have made thy Peace, and prepared for thee a place of Repoſe. Thy remove ſhall be from a turbulent world and ſtormy Sea, to a quiet and ſecure Haven.</p>
+               <pb n="106" facs="tcp:135133:72"/>
+               <p>O my Soul, Canſt thou yet be ſo unſet<g ref="char:EOLhyphen"/>led in thy Reſolves! So wavering and inconſtant in good purpoſes! Chriſt is thy <hi>Wood-Bind</hi> to faſten thee; and hath as many bands to tie thee, as pains he en<g ref="char:EOLhyphen"/>dured, and drops of Blood which he powred out for thy Redemption. Con<g ref="char:EOLhyphen"/>ſider ſeriouſly, how infinitely thou art oblig'd. How innumerable the ties of his tranſcendent Love; like ſo many Tendrels, or <hi>Wood-Bind</hi> wreathes, circling and claſping round about thee, to attract and draw thee unto Himſelf; who, exalted from the Earth, promiſed he would draw all things: But how? In the bands of <hi>Adam,</hi> and links of Charity.</p>
+               <p n="8">VIII. When I walk into the garden, (where every Plant invites the Eye to behold, and the Heart to conſider) I oftner caſt a glance on the <hi>Vine,</hi> which, when I view prun'd and deſpoyl'd of her branches, this (think I) would move an ignorant Man to Com<g ref="char:EOLhyphen"/>paſſion, to ſee a flouriſhing Vine ſo cut and mangled, and faſt nayl'd to a wall, that knows not that this kind of Cruelty, is Courteſie and favour; for thereby it be<g ref="char:EOLhyphen"/>comes more fruitful. The like happeneth to Chriſtians perſecuted, who in the ſight of the unwiſe ſeem to be wretched and dye,
+<pb n="107" facs="tcp:135133:72"/>and their departure deſtruction, yet they a little chaſtiſed ſhall be greatly rewarded; for God prunes and proves them, and finds them worthy for himſelf, ſaith the Wiſe<g ref="char:EOLhyphen"/>man.</p>
+               <p>Then let the true Vine, Chriſt Jeſus, oc<g ref="char:EOLhyphen"/>curr, prun'd, and deſpoyl'd, humbled unto death, for which God gave him a Name above all names, who invites us to ſuffer with him that we may reign with him, in a Kingdom acquired by them who ſuffer perſecution for righteouſneſs ſake: In a Kingdom which is conquered, as it were by force, and ſhatch'd by violence.</p>
+               <p>O my Soul, thou likewiſe art a Vine, and muſt be prun'd: Nay more, if thy Hand offend thee; if like a Vine-branch, it ſpread too far, by coveting earthly things, it muſt be cut off. If thine Eye offend thee, by preſenting thee with objects of vain de<g ref="char:EOLhyphen"/>light, it muſt be pulled out, and caſt from thee. That is, what ever Creature, or whatever delight, as dear unto thee as thy Hand or Eye, muſt be deſerted and caſt off, if they with-draw thee from the Service of God, or go about to betray thee to everlaſting deſtruction.</p>
+               <p>O my Soul, there is but one thing ne<g ref="char:EOLhyphen"/>ceſſary, the grand concernment, Salvation, which relates to Jeſus, that is, a Saviour.
+<pb n="108" facs="tcp:135133:73"/>O that thou couldſt tru'y ſay, Now I be<g ref="char:EOLhyphen"/>gin to be the Diſciple of Chriſt, deſiring nothing viſible to the Eye that I may find Chriſt Jeſus. Seek him then in theſe en<g ref="char:EOLhyphen"/>ſuing Ejaculatories.</p>
+               <div type="part">
+                  <head>
+                     <g ref="char:V">Ʋ</g>pon Chriſt's Nakedneſs.</head>
+                  <p>O Good Jeſu, I read in thy <hi>nakedneſs,</hi> that thou wert <hi>poor in Spirit,</hi> poor in. Will, and deſire of having any thing in this world: So poor in Spirit, that, as thou cam'ſt naked into the World, ſo as naked thou wouldſt depart hence. So poor in this World, that living and dying thou hadſt not whereon to reſt thy Head. What is then in Heaven for me, or what do I deſire on Earth but thee? O the God of my Heart, my portion, my God for ever!</p>
+               </div>
+               <div type="part">
+                  <pb n="109" facs="tcp:135133:73"/>
+                  <head>
+                     <hi>On his Head inclining.</hi> Againſt Pride and Impatience.</head>
+                  <p>O Good Jeſu, I behold thy Head meekly bowing down, while the ungrateful <hi>Jews</hi> blaſpheme and revile thee. All which thou enduredſt with infinite Pati<g ref="char:EOLhyphen"/>ence and Meekneſs, to poſſeſs the Land for us Sinners; who, tranſported by Pride and Impatience, are toſt by the waves of violent perturbations. Ah! who can behold thee on the Croſs humbly in<g ref="char:EOLhyphen"/>clining thy dying Head? Who can be im<g ref="char:EOLhyphen"/>patient, that beholds thee ſo meekly ſuf<g ref="char:EOLhyphen"/>fering? O my Soul, that thou mayſt poſ<g ref="char:EOLhyphen"/>ſeſs thy ſelf, and the Land of the Living, learn of thy Saviour to be humble, meek, and patient.</p>
+               </div>
+               <div type="part">
+                  <pb n="110" facs="tcp:135133:74"/>
+                  <head>
+                     <hi>On Chriſt's Eyes.</hi> Againſt Exceſſive Mirth.</head>
+                  <p>O Good Jeſu, I behold thy ſacred Eyes diſtilling bloody tears, and I hear thee ſay, <hi>Bleſſed are they that mourn, for they ſhall be comforted.</hi> If thou (O Lord) wert comforted by mourning, be<g ref="char:EOLhyphen"/>cauſe by thy tears thou wert to redeem me a Sinner: Great cauſe have I to mourn with thee, ſince my ſins were the cauſe of thy weeping and ſorrow. Great cauſe have I to weep and bewail my ſins, that I may be comforted, yea, and rejoyce, ſeeing by thy dolorous Paſſions, I obtain a full redemption to my Soul.</p>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>On his Mouth.</hi> Againſt Fear and Puſillanimity.</head>
+                  <p>O Good Jeſu, I behold thy ſacred Mouth, and hear thee ſay, <hi>I Thirſt:</hi> Whereby I learn that thou didſt hunger and thirſt after righteouſneſs, that my
+<pb n="111" facs="tcp:135133:74"/>poor ſinful Soul might be juſtified. What then ſhould my hunger and thirſt be, but a deſire to ſuffer with thee, that I may reign with thee? Why then ſhould I fear? Why ſhould I be ſo much dejected? Thou art my Captain, I muſt follow thee: Thou art the Way, I muſt not leave thee: Thou art Life, and therefore I cannot live with<g ref="char:EOLhyphen"/>out thee. O my God and all things! <hi>As the Hart thirſteth after the fountain of waters, ſo doth my Soul unto thee.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>On his Side.</hi> Againſt Unmercifulneſs.</head>
+                  <p>O Good Jeſu, I behold Blood and Water iſſuing from thy wounded Side, and ſeem to hear thee ſay, <hi>Bleſſed are the mer<g ref="char:EOLhyphen"/>ciful, for they ſhall find mercy.</hi> Thou (O Lord) wert ſo merciful, ſo bountiful, that thou gaveſt the laſt dropps of thy precious Blood, which ſtreamed from thy wounded Heart for my redemption. O hard Heart of mine! Should I behold thee in the poor, and not commiſerate thee; or behold thee in the naked, and not cloth thee; or in the ſick, and not viſit thee; or in the
+<pb n="112" facs="tcp:135133:75"/>hungry, and not feed thee! Thou gaveſt all, even to the laſt drop of Blood, to re<g ref="char:EOLhyphen"/>deem me a vile Sinner. O that I could give, and ſurrender all I am and have to thee, my God and Saviour! O that I could love thee with an entire Heart, and with all the powers of my Soul!</p>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>On his Heart.</hi> Againſt Impure Thoughts.</head>
+                  <p>O Good Jeſu, I behold thy tender Heart pierc'd through with a cruel Spear, and ſeem to hear thee ſay, <hi>Bleſſed are the clean of Heart, for they ſhall ſee God.</hi> O that my ſinful Heart were tranſ<g ref="char:EOLhyphen"/>fixt with ſorrow for my ſins, by true com<g ref="char:EOLhyphen"/>punction, that I may have the happineſs to behold my God, by having a clean Heart, and purified Soul by true Contriti<g ref="char:EOLhyphen"/>on. Jeſu, be merciful to me a Sinner, that I may have a Contrite Heart, deeply wounded and transfixt with ſorrow, as often as I behold thy wounded Side and Heart, whence flowed Blood and Water: With which, thou (O Lord) ſhalt ſprinkle me, and I ſhall be clean; thou
+<pb n="113" facs="tcp:135133:75"/>ſhalt waſh me, and I ſhall be whiter than Snow.</p>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>On Chriſt's Hands.</hi> Againſt perturbations of Mind.</head>
+                  <p>O Good Jeſu, I behold thy ſacred Hands pierced through with nails, and ſeem to hear thee ſay, <hi>Bleſſed are the Peace-makers, for they ſhall be call'd the Children of God.</hi> Thou (O Lord) wert the great Peace-maker, who didſt interpoſe thy ſelf betwixt thy Heavenly Father and us Sinners. Thou haſt made our Peace, yet ſtill I find diſquiet of Mind upon ſleight occaſions, vain fears, and worldly re<g ref="char:EOLhyphen"/>ſpects. Therefore I appeal to thee the great Peace-maker, and Son of God, and beſeech thee to aſſiſt me with thy powerful Grace, that I likewiſe may be a Peace-maker, not onely externally amongſt ſuch as are at variance, but likewiſe inwardly, that I may pacifie my own Soul, and there<g ref="char:EOLhyphen"/>by become the peaceful Child of God, who ſeeks repoſe in a Soul free from anxious thoughts and worldly perturbati<g ref="char:EOLhyphen"/>ons. <hi>Amen</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="114" facs="tcp:135133:76"/>
+                  <head>
+                     <hi>On his Feet.</hi> Againſt Fear of Perſecution.</head>
+                  <p>O Good Jeſu, I behold thy ſacred Feet pierced through with nails, and ſeem to hear thee ſay, <hi>Bleſſed are they that ſuffer Perſecution for righteouſneſs ſake, for theirs is the Kingdom of Heaven.</hi> Thou (O Lord) wert perſecuted unto death, even the death of the Croſs: For which God gave thee a Name above all Names. O Bleſſed Saviour, ſince thou haſt pro<g ref="char:EOLhyphen"/>miſed a Kingdom to them that ſuffer with thee and for thee; I muſt not, I can<g ref="char:EOLhyphen"/>not, preſume to reign with thee, unleſs I ſuffer for thy ſake. And ſince no Man ſhall be crowned but he that lawfully fights for thy Honour, and ſuffers for thy Glory, why ſhould I be ſo backward, ſo timorous, ſo unwilling to undergo what<g ref="char:EOLhyphen"/>ever Perſecution it pleaſes thee to ſend, or to permit, which I ſhould receive as a Favour from Heaven, and certain pledge of thy Love and Favour; who, being a Loving Father receiveſt no Child whom thou doſt not chaſtiſe. Under whoſe Rod
+<pb n="115" facs="tcp:135133:76"/>of Correction, may I humbly, through thy powerful Grace ſubmit, and fully reſign my Will, to be a choſen Member of that Kingdom, which thou haſt promiſed to them that ſuffer Perſecution, for thy Names ſake. <hi>Amen, Amen.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div n="143" type="Psalm">
+            <pb n="116" facs="tcp:135133:77"/>
+            <head>Part of the 143. Pſalm para<g ref="char:EOLhyphen"/>phras'd, concerning true Beatitude.</head>
+            <l>
+               <hi>O</hi> Reſcue me out of the hand</l>
+            <l>Of ſuch as thy beheſts with<g ref="char:EOLhyphen"/>ſtand,</l>
+            <l>Degenerate Children, they, wholly,</l>
+            <l>And utter naught but vanity.</l>
+            <l>Whoſe powerful Arms in my diſtreſs,</l>
+            <l>Were Arms ſtretch'd forth to wick<g ref="char:EOLhyphen"/>edneſs:</l>
+            <l>Whoſe Youthfull Sonns, like to a Spring,</l>
+            <l>Of vigorous ſhoots, are flouriſhing;</l>
+            <l>Whoſe Daughters, dreſs'd, their Pride diſplay,</l>
+            <l>Deckt (Temple-like) in rich array;</l>
+            <l>Whoſe ſtore of Corn abundant lies,</l>
+            <l>Heapt up in their rich Granaries.</l>
+            <l>Whoſe Ewes are fruitful, flocks, that go</l>
+            <l>Mantling the Earth like drifts of ſnow.</l>
+            <pb n="117" facs="tcp:135133:77"/>
+            <l>Whoſe Oxen proſper, fat, and fair,</l>
+            <l>And in whoſe Walls no ruins are:</l>
+            <l>Nor noyſe of Thieves, or Rogues, that meet,</l>
+            <l>Or hideous out-cries in the Street.</l>
+            <l>Such ſome admire, and Happy call,</l>
+            <l>Cauſe they have bleſſings temporal;</l>
+            <l>But I him Bleſt have underſtood,</l>
+            <l>Whoſe Lord to him is God, all good.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:135133:78" rendition="simple:additions"/>
+            <pb facs="tcp:135133:78" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
